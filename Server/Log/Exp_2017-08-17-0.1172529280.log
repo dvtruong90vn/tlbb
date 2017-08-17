@@ -1,0 +1,14 @@
+[DE_LOG_START]
+[DE_Status](3c33609f): {FreeTime:0, MoneyTime:0, Count:0, Lock:Off}
+
+[Obj_Human::ResetWeeklyDETime]: Reset weekly double-exp time for User:3c33609f
+[DE_Status](3c33609f): {FreeTime:0, MoneyTime:0, Count:45, Lock:Off}
+
+[DE_LOG_END]
+ (-1838437520)(T0=2017-8-17_22:7:14 T1=314.2650)
+[DE_LOG_START]
+[Obj_Human::OnHumanLogin]
+[DE_Status](3c33609f): {FreeTime:0, MoneyTime:0, Count:45, Lock:Off}
+
+[DE_LOG_END]
+ (-1838437520)(T0=2017-8-17_22:7:15 T1=314.5750)

@@ -1,0 +1,483 @@
+INT	INT	STRING	STRING	INT	INT	INT	STRING
+ID	ÀàÐÍ(²ß»®·ÖÀàÓÃ)	Ãû³Æ$1$	ÃèÊö$1$	Âß¼­ÀàÐÍ(³ÌÐòÓÃ)	µÈ¼¶	Ê±¼ä	×¢ÊÍ
+0	1	 Tân Thü 	Cài ð£t hi®u xßng ðÆng c¤p là 0, có nghîa là loÕi hi®u xßng ðÆng c¤p	1	1	-1	Cài ð£t hi®u xßng ðÆng c¤p là 0, có nghîa là loÕi hi®u xßng ðÆng c¤p
+1	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+2	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+3	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+4	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+5	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+6	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+7	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+8	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+9	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+10	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+11	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+12	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+13	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+14	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+15	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+16	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+17	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+18	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+19	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+20	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+21	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+22	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+23	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+24	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+25	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+26	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+27	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+28	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+29	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+30	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+31	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+32	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+33	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+34	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+35	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+36	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+37	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+38	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+39	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+40	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+41	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+42	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+43	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+44	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+45	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+46	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+47	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+48	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+49	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+50	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+51	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+52	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+53	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+54	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+55	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+56	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+57	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+58	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+59	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+60	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+61	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+62	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+63	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+64	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+65	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+66	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+67	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+68	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+69	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+70	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+71	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+72	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+73	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+74	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+75	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+76	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+77	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+78	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+79	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+80	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+81	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+82	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+83	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+84	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+85	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+86	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+87	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+88	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+89	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+90	1	 VÑt Bö 	VÑt Bö	0	0	-1	VÑt Bö
+91	2	#G Phu Quân 	TÕi thiên nguy®n tác tï dñc ði¬u, tÕi ð¸a nguy®n tác liên lý chi	2	1	-1	Phu thê
+92	2	#G Nß½ng TØ 	TÕi thiên nguy®n tác tï dñc ði¬u, tÕi ð¸a nguy®n tác liên lý chi	2	1	-1	Phu thê
+93	3	Chiêu Võ Hi®u Úy	Binh sÛ s½ c¤p, m¾i l§p công ð¥u, c¥n c¯ g¡ng thêm	3	1	-1	Tòng quân [ VÑt Bö ]
+94	3	Chiêu Võ Hi®u Úy	Binh sÛ s½ c¤p, m¾i l§p công ð¥u, c¥n c¯ g¡ng thêm	3	2	-1	Tòng quân [ VÑt Bö ]
+95	3	 Ch¤n Uy Trung Lang Tß½ng 	Tß¾ng lînh s½ c¤p, l§p công m¤y l¥n, tiªp tøc nghiêm túc	3	3	-1	Tòng quân [ VÑt Bö ]
+96	3	 Phiªu KÜ Tß½ng Quân 	Tß¾ng lînh trung c¤p, l§p nhi«u công l¾n, tiªp tøc nghiêm túc	3	4	-1	Tòng quân [ VÑt Bö ]
+97	3	 Th¥n Vû ÐÕi Tß½ng Quân 	Th¥n võ tß¾ng quân, anh minh th¥n võ, uy ch¤n vû trø	3	5	-1	Tòng quân [ VÑt Bö ]
+98	4	 Hµ Ðàn Ð°ng Nhân 	Th¥y pháp tr× ma s½ c¤p, m¾i l§p công ð¥u, c¥n c¯ g¡ng thêm	4	1	-1	Khu quÖ [ VÑt Bö ]
+99	4	 Løc Ð¸a Phi Tiên 	Th¥y pháp tr× ma trung c¤p, l§p công m¤y l¥n, tiªp tøc nghiêm túc	4	2	-1	Khu quÖ [ VÑt Bö ]
+100	4	 Hàng Ma Thßþng Tiên 	Th¥y pháp tr× ma cao c¤p, l§p nhi«u công l¾n, tiªp tøc nghiêm túc	4	3	-1	Khu quÖ [ VÑt Bö ]
+101	4	 Thiên Cß½ng Chân Quân 	Cñc ph¦m tr× ma pháp sß, hàng ma phøc yêu, tr× ma v® ðÕo	4	4	-1	Khu quÖ [ VÑt Bö ]
+102	5	 Hoàng Báo Phiêu V® 	Tiêu sß s½ c¤p, m¾i l§p công ð¥u, c¥n c¯ g¡ng thêm	5	1	-1	V§n phiêu [ VÑt Bö ]
+103	5	 Xích H± Phiêu Sß 	Tiêu sß trung c¤p, l§p công m¤y l¥n, tiªp tøc nghiêm túc	5	2	-1	V§n phiêu [ VÑt Bö ]
+104	5	 H¡c Phßþng Phiêu Ð¥u 	Tiêu sß cao c¤p, l§p nhi«u công l¾n, tiªp tøc nghiêm túc	5	3	-1	V§n phiêu [ VÑt Bö ]
+105	5	 BÕch Long T±ng Phiêu Ð¥u 	Cñc ph¦m tiêu sß, v§n tiêu h½n ngß¶i, hình mçu cüa gi¾i kinh doanh	5	4	-1	V§n phiêu [ VÑt Bö ]
+106	6	 TrÕng Nguyên 	H÷c thÑc uyên bác, tài ngh® siêu qu¥n, thiên hÕ vô song!	6	3	-1	Khoa cØ [ VÑt Bö ]
+107	6	 Bäng Nhãn 	H÷c thÑc h½n ngß¶i, tài ngh® xu¤t chúng, thiên hÕ ð® nh¸!	6	2	-1	Khoa cØ [ VÑt Bö ]
+108	6	 Tham Hoa 	H÷c thÑc h½n ngß¶i, tài ngh® xu¤t chúng, thiên hÕ ð® tam!	6	1	-1	Khoa cØ [ VÑt Bö ]
+109	7	 Mî Thñc ÐÕi Vß½ng 	Trù ngh® cao siêu, quán tuy®t thiên hÕ	7	1	-1	Ð£c thù [ Chßa XØ Lý ]
+110	7	 Di®u Thü H°i Xuân 	H°i xuân di®u thü, Hoa Ðà tái thª	7	1	-1	Ð£c thù [ Chßa XØ Lý ]
+111	7	 Bäo ThÕch Chuyên Gia 	Cñc ph¦m Bäo ThÕch, phäi thuµc v« ta!	7	1	-1	Ð£c thù [ Chßa XØ Lý ]
+112	7	 Chú Kiªm ÐÕi Sß 	Ðúc kiªm ðÕi sß, thiên tß¾ng tái sinh!	7	1	-1	Ð£c thù [ Chßa XØ Lý ]
+113	7	 Chª Y Nång Thü 	Khéo tay may áo, ðß½ng kim Hoàng ÐÕo Bà!	7	1	-1	Ð£c thù [ Chßa XØ Lý ]
+114	7	 Xäo Thü Th¥n Tßþng 	Khéo tay nhß th¥n, L² Ban tái sinh!	7	1	-1	Ð£c thù [ Chßa XØ Lý ]
+115	7	 Vô Song Tài TØ 	Vån tài xu¤t chúng, phong ðµ h½n ngß¶i!	7	1	-1	Ð£c thù [ Chßa XØ Lý ]
+116	7	 Thäi Dßþc Chuyên Gia 	Th¥n Nông tái thª, nªm tråm cö cây!	7	1	-1	Ð£c thù [ Chßa XØ Lý ]
+117	7	 Thäi Quáng Chuyên Gia 	Chuyên gia khai khoáng, ði¬n hình cüa ngành khai khoáng!	7	1	-1	Ð£c thù [ Chßa XØ Lý ]
+118	7	 OÕt Bäo ÐÕi Sß 	Ðµc cø tu® nhãn, ngß¶i t±ng kªt bäo tàng!	7	1	-1	Ð£c thù [ Chßa XØ Lý ]
+119	7	 Thiên Sß Truy®n Nhân 	Thiên Sß truy«n nhân, m¾i là danh nhân!	7	1	-1	Ð£c thù [ Chßa XØ Lý ]
+120	7	 Ðiªu Ngß Cao Thü 	Thái Công câu cá, mu¯n ngß¶i m¡c câu	7	1	-1	Ð£c thù [ Chßa XØ Lý ]
+121	7	 Thß½ng Nghi®p Cñ Ð¥u 	Thü lînh thß½ng nhân, giàu có mµt phß½ng	7	1	-1	Ð£c thù [ Chßa XØ Lý ]
+122	7	 Vû Lâm Ð® N ÐÕi Bang 	Môn phái cüa các hÕ là ðÕi bang thÑ N cüa Võ Lâm	7	1	-1	Ð£c thù [ Chßa XØ Lý ]
+123	7	 Mô PhÕm Phu Thê 	Hªt mñc yêu thß½ng, ði¬n hình phu thê!	7	1	-1	Ð£c thù [ Chßa XØ Lý ]
+124	8	 Tào V§n Thß½ng 	Thß½ng nhân v§n chuy¬n s½ c¤p, m¾i bß¾c vào ngh«, tiªp tøc c¯ g¡ng	6	1	-1	Tào v§n
+125	8	 Tào V§n T¦u T¯t 	Thß½ng nhân v§n chuy¬n c¤p 2, m¾i quen tay v¾i ngh« v§n chuy¬n, tiªp tøc c¯ g¡ng	6	2	-1	Tào v§n
+126	8	 Tào V§n Áp Giäi Quan 	Thß½ng nhân v§n chuy¬n c¤p 3, có tài nång trong ngh« v§n chuy¬n, tiªp tøc nghiêm túc	6	3	-1	Tào v§n
+127	8	 Tào V§n Th¯ng Lînh 	Thß½ng nhân v§n chuy¬n c¤p 4, cao thü trong ngh« v§n chuy¬n, tiªp tøc nghiêm túc	6	4	-1	Tào v§n
+128	8	 Tào V§n Ði«u Ðµ Phó SØ 	Thß½ng nhân v§n chuy¬n c¤p 5, ngß¶i có tiªng trong ngh« v§n chuy¬n, tiªp tøc nghiêm túc	6	5	-1	Tào v§n
+129	8	 Tào V§n Ði«u Ðµ SØ 	Thß½ng nhân v§n chuy¬n c¤p 6, ngß¶i có quy«n uy trong ngh« v§n chuy¬n, ði¬n hình cüa gi¾i kinh doanh	6	6	-1	Tào v§n
+130	8	 Tào V§n T±ng Ð« Ði«u 	Thß½ng nhân v§n chuy¬n c¤p 7, là th¥n thoÕi trong ngh« v§n chuy¬n, b¤t hü truy«n kÏ	6	7	-1	Tào v§n
+131	9	 Bình T£c Sî Binh 	Dûng mãnh giªt gi£c, xung phong tr§n ti«n!	17	1	-1	T£c binh nh§p xâm
+132	9	 Bình T£c Ðµi Trß¶ng 	Cao thü giªt gi£c, không h« vø lþi!	17	2	-1	T£c binh nh§p xâm
+133	9	 Bình T£c Th¯ng Lînh 	Tinh anh giªt gi£c, kh¡c tinh cüa quân gi£c!	17	3	-1	T£c binh nh§p xâm
+134	9	 Ðãng Kh¤u Tß½ng Quân 	Tài cüa ðÕi tß¾ng, d©p yên lû gi£c!	17	4	-1	T£c binh nh§p xâm
+135	9	 Ðãng Kh¤u Nguyên Su¤t 	Tài cüa nguyên soái, d©p yên lû gi£c!	17	5	-1	T£c binh nh§p xâm
+136	10	 Bï Vû ÐÕi Hµi TrÕng Nguyên 	Võ ngh® siêu qu¥n, coi thß¶ng thiên hÕ	18	3	168	Bï vû ðÕi hµi
+137	10	 Bï Vû ÐÕi Hµi Bäng Nhãn 	Võ công trác tuy®t, thiên hÕ ð® nh¸	18	2	168	Bï vû ðÕi hµi
+138	10	 Bï Vû ÐÕi Hµi Tham Hoa 	Võ công trác tuy®t, thiên hÕ ð® tam	18	1	168	Bï vû ðÕi hµi
+139	11	 Khoa CØ TrÕng Nguyên 	H÷c thÑc uyên bác, trong cuµc thi khoa cØ ðè b©p qu¥n nho!	5	3	168	Khoa cØ
+140	11	 Khoa CØ Bäng Nhãn 	H÷c thÑc h½n ngß¶i, trong cuµc thi khoa cØa ðã giành ðßþc v¸ trí thÑ hai!	5	2	168	Khoa cØ
+141	11	 Khoa CØ Tham Hoa 	H÷c thÑc h½n ngß¶i, trong cuµc thi khoa cØa ðã giành ðßþc v¸ trí thÑ ba!	5	1	168	Khoa cØ
+142	12	 Thi¬u Lâm Hi®p Sî 	Thiªu Lâm S½ c¤p Ð® TØ	21	1	-1	Sß môn c¯ng hiªn
+143	12	 Hôi Y Hµ Pháp 	Thiªu Lâm Trung C¤p Ð® TØ	21	2	-1	Sß môn c¯ng hiªn
+144	12	 Kim Thân La Hán 	Thiªu Lâm Cao C¤p Ð® TØ	21	3	-1	Sß môn c¯ng hiªn
+145	12	 Ð¸a Tàng B° Tát 	Thiªu Lâm Tinh Thâm Ð® TØ	21	4	-1	Sß môn c¯ng hiªn
+146	12	 Thi¬u Lâm Hi®p Næ 	Thiªu Lâm S½ c¤p Ð® TØ	21	1	-1	Sß môn c¯ng hiªn
+147	12	 BÕch Y Th¸ Giä 	Thiªu Lâm Trung C¤p Ð® TØ	21	2	-1	Sß môn c¯ng hiªn
+148	12	 Ðµ Thª Quan Âm 	Thiªu Lâm Cao C¤p Ð® TØ	21	3	-1	Sß môn c¯ng hiªn
+149	12	 Già Lam B° Tát 	Thiªu Lâm Tinh Thâm Ð® TØ	21	4	-1	Sß môn c¯ng hiªn
+150	12	 Minh Giáo Hi®p Sî 	Minh Giáo S½ c¤p Ð® TØ	21	1	-1	Sß môn c¯ng hiªn
+151	12	 Th¸ Höa Hi®p Sî 	Minh Giáo Trung C¤p Ð® TØ	21	2	-1	Sß môn c¯ng hiªn
+152	12	 Hµ Giáo Pháp Vß½ng 	Minh Giáo Cao C¤p Ð® TØ	21	3	-1	Sß môn c¯ng hiªn
+153	12	 Quang Minh Th¥n SØ 	Minh Giáo Tinh Thâm Ð® TØ	21	4	-1	Sß môn c¯ng hiªn
+154	12	 Minh Giáo Hi®p Næ 	Minh Giáo S½ c¤p Ð® TØ	21	1	-1	Sß môn c¯ng hiªn
+155	12	 Th¸ Höa Hi®p Næ 	Minh Giáo Trung C¤p Ð® TØ	21	2	-1	Sß môn c¯ng hiªn
+156	12	 Hµ Giáo Tán Nhân 	Minh Giáo Cao C¤p Ð® TØ	21	3	-1	Sß môn c¯ng hiªn
+157	12	 Quang Minh Thánh Næ 	Minh Giáo Tinh Thâm Ð® TØ	21	4	-1	Sß môn c¯ng hiªn
+158	12	 Cái Bang Hi®p Sî 	Cái Bang S½ c¤p Ð® TØ	21	1	-1	Sß môn c¯ng hiªn
+159	12	 Thanh Liên Ð® TØ 	Cái Bang Trung C¤p Ð® TØ	21	2	-1	Sß môn c¯ng hiªn
+160	12	 Huy«n Vû Trß¶ng Lão 	Cái Bang Cao C¤p Ð® TØ	21	3	-1	Sß môn c¯ng hiªn
+161	12	 Chß·ng B±ng Long Ð¥u 	Cái Bang Tinh Thâm Ð® TØ	21	4	-1	Sß môn c¯ng hiªn
+162	12	 Cái Bang Hi®p Næ 	Cái Bang S½ c¤p Ð® TØ	21	1	-1	Sß môn c¯ng hiªn
+163	12	 BÕch Liên Ð® TØ 	Cái Bang Trung C¤p Ð® TØ	21	2	-1	Sß môn c¯ng hiªn
+164	12	 Chu Tß¾c Trß¶ng Lão 	Cái Bang Cao C¤p Ð® TØ	21	3	-1	Sß môn c¯ng hiªn
+165	12	 Chß·ng Bát Long Næ 	Cái Bang Tinh Thâm Ð® TØ	21	4	-1	Sß môn c¯ng hiªn
+166	12	 Vû Ðß½ng Hi®p Sî 	Võ Ðang S½ c¤p Ð® TØ	21	1	-1	Sß môn c¯ng hiªn
+167	12	 Thanh Minh Cß Sî 	Võ Ðang Trung C¤p Ð® TØ	21	2	-1	Sß môn c¯ng hiªn
+168	12	 Vô V« Chân Nhân 	Võ Ðang Cao C¤p Ð® TØ	21	3	-1	Sß môn c¯ng hiªn
+169	12	 Vû Ðß½ng Thiên Tôn 	Võ Ðang Tinh Thâm Ð® TØ	21	4	-1	Sß môn c¯ng hiªn
+170	12	 Vû Ðß½ng Hi®p Næ 	Võ Ðang S½ c¤p Ð® TØ	21	1	-1	Sß môn c¯ng hiªn
+171	12	 BÕch Vân Cß Sî 	Võ Ðang Trung C¤p Ð® TØ	21	2	-1	Sß môn c¯ng hiªn
+172	12	 Thanh Tînh Tán Nhân 	Võ Ðang Cao C¤p Ð® TØ	21	3	-1	Sß môn c¯ng hiªn
+173	12	 Vû Ðß½ng Tiên TØ 	Võ Ðang Tinh Thâm Ð® TØ	21	4	-1	Sß môn c¯ng hiªn
+174	12	 Nga Mi Hi®p Sî 	Nga My S½ c¤p Ð® TØ	21	1	-1	Sß môn c¯ng hiªn
+175	12	 Thanh Phong Cß Sî 	Nga My Trung C¤p Ð® TØ	21	2	-1	Sß môn c¯ng hiªn
+176	12	 Ng÷c Long Hi®p Sî 	Nga My Cao C¤p Ð® TØ	21	3	-1	Sß môn c¯ng hiªn
+177	12	 Nga Mi Tiên Nhân 	Nga My Tinh Thâm Ð® TØ	21	4	-1	Sß môn c¯ng hiªn
+178	12	 Nga Mi Hi®p Næ 	Nga My S½ c¤p Ð® TØ	21	1	-1	Sß môn c¯ng hiªn
+179	12	 Minh Nguy®t Cß Sî 	Nga My Trung C¤p Ð® TØ	21	2	-1	Sß môn c¯ng hiªn
+180	12	 Kim Phßþng Hi®p Næ 	Nga My Cao C¤p Ð® TØ	21	3	-1	Sß môn c¯ng hiªn
+181	12	 Nga Mi Tiên TØ 	Nga My Tinh Thâm Ð® TØ	21	4	-1	Sß môn c¯ng hiªn
+182	12	 Tinh Túc Hi®p Sî 	Tinh Túc S½ c¤p Ð® TØ	21	1	-1	Sß môn c¯ng hiªn
+183	12	 Hành Ôn Lang Quân 	Tinh Túc Trung C¤p Ð® TØ	21	2	-1	Sß môn c¯ng hiªn
+184	12	 Thôi M®nh Phán Quan 	Tinh Túc Cao C¤p Ð® TØ	21	3	-1	Sß môn c¯ng hiªn
+185	12	 Ðµc Thü Y Tiên 	Tinh Túc Tinh Thâm Ð® TØ	21	4	-1	Sß môn c¯ng hiªn
+186	12	 Tinh Túc Hi®p Næ 	Tinh Túc S½ c¤p Ð® TØ	21	1	-1	Sß môn c¯ng hiªn
+187	12	 Hành Ôn Nß½ng TØ 	Tinh Túc Trung C¤p Ð® TØ	21	2	-1	Sß môn c¯ng hiªn
+188	12	 ÐoÕt M®nh DÕ Xoa 	Tinh Túc Cao C¤p Ð® TØ	21	3	-1	Sß môn c¯ng hiªn
+189	12	 Ðµc Thü Dßþc Vß½ng 	Tinh Túc Tinh Thâm Ð® TØ	21	4	-1	Sß môn c¯ng hiªn
+190	12	 Thiên Long Hi®p Sî 	Thiên Long S½ c¤p Ð® TØ	21	1	-1	Sß môn c¯ng hiªn
+191	12	 Tàng Kinh Hi®p Sî 	Thiên Long Trung C¤p Ð® TØ	21	2	-1	Sß môn c¯ng hiªn
+192	12	 Sùng Thánh Thiên Sß 	Thiên Long Cao C¤p Ð® TØ	21	3	-1	Sß môn c¯ng hiªn
+193	12	 Thiên Nam Long Vß½ng 	Thiên Long Tinh Thâm Ð® TØ	21	4	-1	Sß môn c¯ng hiªn
+194	12	 Thiên Long Hi®p Næ 	Thiên Long S½ c¤p Ð® TØ	21	1	-1	Sß môn c¯ng hiªn
+195	12	 Tàng Kinh Hi®p Næ 	Thiên Long Trung C¤p Ð® TØ	21	2	-1	Sß môn c¯ng hiªn
+196	12	 Sùng Thánh Thiên Næ 	Thiên Long Cao C¤p Ð® TØ	21	3	-1	Sß môn c¯ng hiªn
+197	12	 Thiên Nam Long Næ 	Thiên Long Tinh Thâm Ð® TØ	21	4	-1	Sß môn c¯ng hiªn
+198	12	 Thiên S½n Hi®p Sî 	Thiên S½n S½ c¤p Ð® TØ	21	1	-1	Sß môn c¯ng hiªn
+199	12	 Dß½ng Thiên Bµ Chúng 	Thiên S½n Trung C¤p Ð® TØ	21	2	-1	Sß môn c¯ng hiªn
+200	12	 Thiên S½n Thß½ng ¿ng 	Thiên S½n Cao C¤p Ð® TØ	21	3	-1	Sß môn c¯ng hiªn
+201	12	 H²n Nguyên S½n Th¥n 	Thiên S½n Tinh Thâm Ð® TØ	21	4	-1	Sß môn c¯ng hiªn
+202	12	 Thiên S½n Hi®p Næ 	Thiên S½n S½ c¤p Ð® TØ	21	1	-1	Sß môn c¯ng hiªn
+203	12	 HÕo Thiên Bµ Chúng 	Thiên S½n Trung C¤p Ð® TØ	21	2	-1	Sß môn c¯ng hiªn
+204	12	 Thiên S½n Tuyªt Ðiêu 	Thiên S½n Cao C¤p Ð® TØ	21	3	-1	Sß môn c¯ng hiªn
+205	12	 H²n Nguyên Hoa Th¥n 	Thiên S½n Tinh Thâm Ð® TØ	21	4	-1	Sß môn c¯ng hiªn
+206	12	 Tiêu Diêu Hi®p Sî 	Tiêu Dao S½ c¤p Ð® TØ	21	1	-1	Sß môn c¯ng hiªn
+207	12	 Phü C¥m Cß Sî 	Tiêu Dao Trung C¤p Ð® TØ	21	2	-1	Sß môn c¯ng hiªn
+208	12	 LÕc Th¥n Hi®p Sî 	Tiêu Dao Cao C¤p Ð® TØ	21	3	-1	Sß môn c¯ng hiªn
+209	12	 Tiêu Diêu Th¥n Long 	Tiêu Dao Tinh Thâm Ð® TØ	21	4	-1	Sß môn c¯ng hiªn
+210	12	 Tiêu Diêu Hi®p Næ 	Tiêu Dao S½ c¤p Ð® TØ	21	1	-1	Sß môn c¯ng hiªn
+211	12	 Thì Hoa Cß Sî 	Tiêu Dao Trung C¤p Ð® TØ	21	2	-1	Sß môn c¯ng hiªn
+212	12	 Lång Ba Hi®p Næ 	Tiêu Dao Cao C¤p Ð® TØ	21	3	-1	Sß môn c¯ng hiªn
+213	12	 Tiêu Diêu Thánh Næ 	Tiêu Dao Tinh Thâm Ð® TØ	21	4	-1	Sß môn c¯ng hiªn
+214	13	 S½ C¤p Sß Phó 	Ph§n là sß phø, cùng v¾i sñ tiªn bµ cüa ð° ð®. #rCó th¬ thu nÕp thêm 2 ð° ð® 	28	1	-1	Sß ðÑc ðÆng c¤p
+215	13	 Trung C¤p Sß Phó 	Ph§n là sß phø, t§n tâm chï dÕy ð° ð®. #rCó th¬ thu nÕp thêm 3 ð° ð® 	28	2	-1	Sß ðÑc ðÆng c¤p
+216	13	 Cao C¤p Sß Phó 	Ph§n là sß phø, danh tiªng lçy l×ng.  #rCó th¬ thu nÕp thêm 5 ð° ð®	28	3	-1	Sß ðÑc ðÆng c¤p
+217	13	 Nh¤t ÐÕi Danh Sß 	Nh¤t ðÕi danh sß, vÕn danh thiên hÕ. #rCó th¬ thu nÕp thêm 8 ð° ð®	28	4	-1	Sß ðÑc ðÆng c¤p
+218	14	_jiebai_	Kªt nghîa kim lan, s¯ng chªt có nhau	24	1	-1	Kªt bái
+219	15	#G Bang Chúng 	Thành viên ph± thông cüa bang phái	115	1	-1	Bang phái [ b¤t th¸ thông quá xßng hi®u ]
+220	15	#G Tinh Anh 	Thành viên tinh anh cüa bang phái	115	2	-1	Bang phái [ b¤t th¸ thông quá xßng hi®u ]
+221	15	#G Thß½ng Nhân 	Ngß¶i phø trách thß½ng vø cüa bang phái	115	3	-1	Bang phái [ b¤t th¸ thông quá xßng hi®u ]
+222	15	#G Nµi Vø SØ 	Ngß¶i phø trách nµi vø cüa bang phái	115	4	-1	Bang phái [ b¤t th¸ thông quá xßng hi®u ]
+223	15	#G Công Vø SØ 	Ngß¶i phø trách công nông nghi®p cüa bang phái	115	5	-1	Bang phái [ b¤t th¸ thông quá xßng hi®u ]
+224	15	#G Ho¢ng Hóa SØ 	Ngß¶i phø trách phát tri¬n bang phái	115	6	-1	Bang phái [ b¤t th¸ thông quá xßng hi®u ]
+225	15	#G Phó Bang Chü 	Phó bang chü cüa bang phái, trþ thü ð¡c lñc cüa Bang chü	115	7	-1	Bang phái [ b¤t th¸ thông quá xßng hi®u ]
+226	15	#G Bang Chü 	ÐÕi ca bang hµi, ngß¶i quän lý t¯i cao cüa bang phái	115	8	-1	Bang phái [ b¤t th¸ thông quá xßng hi®u ]
+227	16	 Tình Thánh 	999 bông h°ng	19	1	-1	999 ðóa mân côi, nam
+228	16	Mai Quª Tiên TØ	999 bông h°ng	19	1	-1	999 ðóa mân côi, næ
+229	17	 Ti­u Phï Nghîa Sî 	Các nghîa sî hß·ng Ñng l¶i kêu g÷i di®t tr× phiªn loÕn	30	1	-1	Ti­n hoành vû xßng hi®u
+230	17	 Phá Phï Hi®p Sî 	Các hi®p sî hß·ng Ñng l¶i kêu g÷i ðánh tan th± phï cüa tri«u ðình	30	2	-1	Ti­n hoành vû xßng hi®u
+231	17	 Tr¤n Phï Anh Hi®p 	Các anh hùng hi®p sî hß·ng Ñng l¶i kêu g÷i áp th± phï	30	3	-1	Ti­n hoành vû xßng hi®u
+232	17	 Thiên HÕ Phï Kiªn S¥u 	Làm b÷n phï trong thiên hÕ nghe phäi run sþ th¤y phäi lo l¡ng	30	4	-1	Ti­n hoành vû xßng hi®u
+233	18	 Hành Giä Vô Song 	Ð÷c vÕn quy¬n thß, hành vÕn lý lµ, thiên hÕ vô song!	31	1	-1	Anh hùng nhâm vø
+234	18	 T¸ch M¸ch Cao Thü 	Võ lâm cao thü, ðµc lai ðµc vãng, v¤n ðïnh giang h°!	32	2	-1	Anh hùng nhâm vø
+235	18	 Vô Ð¸ch Hi®p Khách 	Hi®p can nghîa ðäm, thiên hÕ vô ð¸ch, chï c¥u nh¤t bÕi!	33	3	-1	Anh hùng nhâm vø
+236	18	 Cái Thª Anh Hùng 	Anh hùng cái thª, danh tr¤n hoàn vû, vÕn c± lßu phß½ng!	34	4	-1	Anh hùng nhâm vø
+237	19	 Ti­u Phï Du Kích Tß½ng Quân 	Sáu v¸ anh hùng tr× di®t Kính H° thüy phï ð¥u lînh!	35	1	-1	Kính h° ti­u phï
+238	19	 Ti­u Phï Phá L² Tß½ng Quân 	Mß¶i tám v¸ anh hùng tr× di®t Kính H° thüy phï ð¥u lînh!	35	2	-1	Kính h° ti­u phï
+239	19	 Ti­u Phï Xa KÜ Tß½ng Quân 	Nåm mß½i v¸ anh hùng tr× di®t Kính H° thüy phï ð¥u lînh!	35	3	-1	Kính h° ti­u phï
+240	19	 Ti­u Phï ÐÕi Tß½ng Quân 	Tråm v¸ anh hùng tr× di®t Kính H° thüy phï ð¥u lînh!	35	4	-1	Kính h° ti­u phï
+241	20	 Cñc Ph¦m Phi Mao Th¯i 	Xªp 3 hÕng ð¥u trong sñ ki®n chÕy ðua Rùa Thö.	37	1	168	Quy thö tái bào
+242	21	$u# Quan Nµi H¥u 	Bang hµi tß¾c v¸ s½ c¤p, Trß½ng Liêu ban tß¾c hi®u Quan Nµi H¥u.	38	1	-1	Bang phái c¯ng hiªn ðµ xßng hi®u
+243	21	$u# Ðình H¥u 	Bang hµi tß¾c v¸ s½ c¤p, Quan Vû ban tß¾c hi®u Hán Th÷ Ðình H¥u. 	38	2	-1	Bang phái c¯ng hiªn ðµ xßng hi®u
+244	21	$u# Hß½ng H¥u 	Bang hµi tß¾c v¸ trung c¤p, Tß Mã Ý ban tß¾c hi®u An Qu¯c Hß½ng H¥u.	38	3	-1	Bang phái c¯ng hiªn ðµ xßng hi®u
+245	21	$u# Huy«n H¥u 	Bang hµi tß¾c v¸ trung c¤p, Gia Cát Lßþng ban tß¾c hi®u Võ Hß½ng Huy®n H¥u.	38	4	-1	Bang phái c¯ng hiªn ðµ xßng hi®u
+246	21	$u# Qu§n H¥u 	Bang hµi tß¾c v¸ trung c¤p, Dß½ng H² ban tß¾c hi®u Nam Thành Qu§n H¥u.	38	5	-1	Bang phái c¯ng hiªn ðµ xßng hi®u
+247	21	$u# Huy«n Công 	Bang hµi tß¾c v¸ cao c¤p, Lßu Thi«n ban trß¾c hi®u An LÕc Huy®n Công.	38	6	-1	Bang phái c¯ng hiªn ðµ xßng hi®u
+248	21	$u# Qu§n Công 	Bang hµi tß¾c v¸ cao c¤p, Tôn Quy«n ban trß¾c hi®u Ngô Qu§n Qu§n Công.	38	7	-1	Bang phái c¯ng hiªn ðµ xßng hi®u
+249	21	$u# Qu¯c Công 	Bang hµi tß¾c v¸ cao c¤p, Tß Mã Chiêu ban trß¾c hi®u T¤n Qu¯c Công.	38	8	-1	Bang phái c¯ng hiªn ðµ xßng hi®u
+250	21	$u# Qu§n Vß½ng 	Bang hµi tß¾c v¸ siêu c¤p, Lßu B¸ ban tß¾c hi®u Hán Trung Vß½ng	38	9	-1	Bang phái c¯ng hiªn ðµ xßng hi®u
+251	21	$u# Thân Vß½ng 	Bang hµi tß¾c v¸ siêu c¤p, Tào Tháo ban tß¾c hi®u NguÜ Vß½ng.	38	10	-1	Bang phái c¯ng hiªn ðµ xßng hi®u
+252	22	 Liên Träm Cu°ng Khách 	S¯ ngß¶i giªt nhi«u nh¤t trong 1 cuµc chinh phÕt bang hµi. 	39	1	168	Bang chiªn hoÕch ð¡c ðích xßng hi®u
+253	22	 Siêu C¤p Kì Thü 	Chiªm c¶ nhi«u nh¤t trong 1 cuµc chinh phÕt bang hµi. 	40	1	168	Bang chiªn hoÕch ð¡c ðích xßng hi®u
+254	22	 Sßu Bäo Chuyên Gia 	Thu th§p tß ngu°n nhi«u nh¤t trong 1 cuµc chinh phÕt bang hµi. 	41	1	168	Bang chiªn hoÕch ð¡c ðích xßng hi®u
+255	23	 LÕc Dß½ng Thành Chü 	Dña vào thñc lñc chiªm thành LÕc Dß½ng m¾i có xßng hi®u quang vinh. 	42	1	-1	LÕc dß½ng npc chu nhiên xØ lînh thü ðích thành th¸ xßng hi®u
+256	24	 Phiªu Mi¬u Chi Phong Mang S½ Hi®n 	Ðã khiêu chiªn anh hùng tÕi Phiêu Mi¬u Phong thành công!	43	1	-1	Thiêu chiªn phiªu mi¬u phong hoÕch ð¡c ðích xßng hi®u
+257	24	 Phiªu Mi¬u Chi Hi®u Tình Vô Song 	Nhi«u l¥n khiêu chiªn anh hùng · Phiêu Mi¬u Phong thành công!	43	2	-1	Thiêu chiªn phiªu mi¬u phong hoÕch ð¡c ðích xßng hi®u
+258	24	 Phiªu Mi¬u Chi Chiªn Vô B¤t Th¡ng 	Anh hùng · Phiêu Mi¬u Phong Chiªn Vô B¤t Th¡ng!	43	3	-1	Thiêu chiªn phiªu mi¬u phong hoÕch ð¡c ðích xßng hi®u
+259	24	 Phiªu Mi¬u Chi Ngã Ý Túng Hoành 	Anh hùng S¤t Trá Phong Vân · Phiêu Mi¬u Phong!	43	4	-1	Thiêu chiªn phiªu mi¬u phong hoÕch ð¡c ðích xßng hi®u
+260	25	 Quäng Møc Thiên Vß½ng 	Phäi ðánh bÕi t¤t cä Sát Tinh 1 l¥n!	44	1	-1	Sát tinh phó b±n xßng hi®u
+261	25	 Ða Vån Thiên Vß½ng 	Phäi ðánh bÕi t¤t cä Sát Tinh 10 l¥n!	44	2	-1	Sát tinh phó b±n xßng hi®u
+262	25	 Tång Trß¶ng Thiên Vß½ng 	Phäi ðánh bÕi t¤t cä Sát Tinh 50 l¥n!	44	3	-1	Sát tinh phó b±n xßng hi®u
+263	25	 Trì Qu¯c Thiên Vß½ng 	Phäi ðánh bÕi t¤t cä Sát Tinh 200 l¥n!	44	4	-1	Sát tinh phó b±n xßng hi®u
+264	26	 Phßþng Hoàng C± Thành Phách Chü 	Anh hùng giành ðßþc th¡ng lþi Phøng Hoàng Bình Nguyên!	48	1	-1	Phßþng hoàng bình nguyên thành chiªn th¡ng lþi hoÕch ð¡c ðích xßng hi®u
+265	27	 Ðång Ðß¶ng Nh§p Th¤t 	Xßng hi®u nh§n ðßþc khi cänh gi¾i tu luy®n cao nh¤t hi®n tÕi ðÕt t¥ng 3	49	2	-1	Tu luy®n xßng hi®u
+266	27	 HÕc L§p Kê Qu¥n 	Xßng hi®u nh§n ðßþc khi cänh gi¾i tu luy®n cao nh¤t hi®n tÕi ðÕt t¥ng 4	49	3	-1	Tu luy®n xßng hi®u
+267	27	 Giá Khinh Tñu Thøc 	Xßng hi®u nh§n ðßþc khi cänh gi¾i tu luy®n cao nh¤t hi®n tÕi ðÕt t¥ng 5	49	4	-1	Tu luy®n xßng hi®u
+268	27	 Phi Bï T¥m Thß¶ng 	Xßng hi®u nh§n ðßþc khi cänh gi¾i tu luy®n cao nh¤t hi®n tÕi ðÕt t¥ng 6	49	5	-1	Tu luy®n xßng hi®u
+269	27	 Ðång Phong TÕo Cñc 	Xßng hi®u nh§n ðßþc khi cänh gi¾i tu luy®n cao nh¤t hi®n tÕi ðÕt t¥ng 7	49	6	-1	Tu luy®n xßng hi®u
+270	27	 Kî Quan Qu¥n Hùng 	Xßng hi®u nh§n ðßþc khi cänh gi¾i tu luy®n cao nh¤t hi®n tÕi ðÕt t¥ng 8	49	7	-1	Tu luy®n xßng hi®u
+271	27	 Nh¤t ÐÕi Tông Sß 	Xßng hi®u nh§n ðßþc khi cänh gi¾i tu luy®n cao nh¤t hi®n tÕi ðÕt t¥ng 9	49	8	-1	Tu luy®n xßng hi®u
+272	27	 Ch¤n C± Thß¾c Kim 	Xßng hi®u nh§n ðßþc khi cänh gi¾i tu luy®n cao nh¤t hi®n tÕi ðÕt t¥ng 10	49	9	-1	Tu luy®n xßng hi®u
+273	27	 Siêu Phàm Nh§p Thánh 	Xßng hi®u nh§n ðßþc khi cänh gi¾i tu luy®n cao nh¤t hi®n tÕi ðÕt t¥ng 11	49	10	-1	Tu luy®n xßng hi®u
+274	27	 Siêu Phàm Nh§p Thánh # Ngû Hành Cß¶ng Giä 	Xßng hi®u nh§n ðßþc khi cänh gi¾i tu luy®n Ngû Hành Bäo Ði¬n cao nh¤t hi®n tÕi ðÕt t¥ng 12	49	11	-1	Tu luy®n xßng hi®u
+275	27	 Siêu Phàm Nh§p Thánh # Vô Nhai Cß Sî 	Xßng hi®u nh§n ðßþc khi cänh gi¾i tu luy®n Vô Nhai Di Thß cao nh¤t hi®n tÕi ðÕt t¥ng 12	49	11	-1	Tu luy®n xßng hi®u
+276	27	 Thiên Nhân Hþp Nh¤t 	Xßng hi®u nh§n ðßþc khi cänh gi¾i tu luy®n cao nh¤t hi®n tÕi ðÕt t¥ng 12	49	12	-1	Tu luy®n xßng hi®u
+277	28	 Giang Nam Hi®p Sî 	Nam ð® tØ s½ c¤p phái Mµ Dung.	21	1	-1	Sß môn c¯ng hiªn
+278	28	 Phøc Qu¯c Dûng Sî 	Nam ð® tØ trung c¤p phái Mµ Dung.	21	2	-1	Sß môn c¯ng hiªn
+279	28	 Phø Qu¯c Mßu Sî 	Nam ð® tØ cao c¤p phái Mµ Dung.	21	3	-1	Sß môn c¯ng hiªn
+280	28	 Yªn Hoàng Di MÕch 	Nam ð® tØ tß thâm phái Mµ Dung.	21	4	-1	Sß môn c¯ng hiªn
+281	28	 Giang Nam Hi®p Næ 	Næ ð® tØ s½ c¤p phái Mµ Dung.	21	1	-1	Sß môn c¯ng hiªn
+282	28	 Mính Hß½ng Hi®p Næ 	Næ ð® tØ trung c¤p phái Mµ Dung.	21	2	-1	Sß môn c¯ng hiªn
+283	28	 Huy«n V§n Hi®p Næ 	Næ ð® tØ cao c¤p phái Mµ Dung.	21	3	-1	Sß môn c¯ng hiªn
+284	28	 Si Tình H°ng Nhan 	Næ ð® tØ tß thâm phái Mµ Dung.	21	4	-1	Sß môn c¯ng hiªn
+285	29	 Nh¤t Kiªm Khuynh Thiên HÕ 	Môn phái giành ðßþc quán quân trong cuµc thi cá nhân và cuµc thi môn phái cüa Hoa S½n Lu§n Kiªm	50	1	48	Hoa s½n lu§n kiªm xßng hi®u
+286	30	 Thi¬u Lâm Thü T¸ch ÐÕi Ð® TØ 	Xßng hi®u nh§n ðßþc khi ðÑng trong 3 hÕng ð¥u trong cuµc thi cá nhân cüa Hoa S½n Lu§n Kiªm	51	1	48	Hoa s½n lu§n kiªm xßng hi®u
+287	30	 Minh Giáo Thü T¸ch ÐÕi Ð® TØ 	Xßng hi®u nh§n ðßþc khi ðÑng trong 3 hÕng ð¥u trong cuµc thi cá nhân cüa Hoa S½n Lu§n Kiªm	52	1	48	Hoa s½n lu§n kiªm xßng hi®u
+288	30	 Cái Bang Thü T¸ch ÐÕi Ð® TØ 	Xßng hi®u nh§n ðßþc khi ðÑng trong 3 hÕng ð¥u trong cuµc thi cá nhân cüa Hoa S½n Lu§n Kiªm	53	1	48	Hoa s½n lu§n kiªm xßng hi®u
+289	30	 Vû Ðß½ng Thü T¸ch ÐÕi Ð® TØ 	Xßng hi®u nh§n ðßþc khi ðÑng trong 3 hÕng ð¥u trong cuµc thi cá nhân cüa Hoa S½n Lu§n Kiªm	54	1	48	Hoa s½n lu§n kiªm xßng hi®u
+290	30	 Nga Mi Thü T¸ch ÐÕi Ð® TØ 	Xßng hi®u nh§n ðßþc khi ðÑng trong 3 hÕng ð¥u trong cuµc thi cá nhân cüa Hoa S½n Lu§n Kiªm	55	1	48	Hoa s½n lu§n kiªm xßng hi®u
+291	30	 Tinh Túc Thü T¸ch ÐÕi Ð® TØ 	Xßng hi®u nh§n ðßþc khi ðÑng trong 3 hÕng ð¥u trong cuµc thi cá nhân cüa Hoa S½n Lu§n Kiªm	56	1	48	Hoa s½n lu§n kiªm xßng hi®u
+292	30	 Thiên Long Thü T¸ch ÐÕi Ð® TØ 	Xßng hi®u nh§n ðßþc khi ðÑng trong 3 hÕng ð¥u trong cuµc thi cá nhân cüa Hoa S½n Lu§n Kiªm	57	1	48	Hoa s½n lu§n kiªm xßng hi®u
+293	30	 Thiên S½n Thü T¸ch ÐÕi Ð® TØ 	Xßng hi®u nh§n ðßþc khi ðÑng trong 3 hÕng ð¥u trong cuµc thi cá nhân cüa Hoa S½n Lu§n Kiªm	58	1	48	Hoa s½n lu§n kiªm xßng hi®u
+294	30	 Tiêu Diêu Thü T¸ch ÐÕi Ð® TØ 	Xßng hi®u nh§n ðßþc khi ðÑng trong 3 hÕng ð¥u trong cuµc thi cá nhân cüa Hoa S½n Lu§n Kiªm	59	1	48	Hoa s½n lu§n kiªm xßng hi®u
+295	30	 Mµ Dung Thü T¸ch ÐÕi Ð® TØ 	Xßng hi®u nh§n ðßþc khi ðÑng trong 3 hÕng ð¥u trong cuµc thi cá nhân cüa Hoa S½n Lu§n Kiªm	60	1	48	Hoa s½n lu§n kiªm xßng hi®u
+296	31	#G C¥u Mê 	Danh hi®u riêng, minh chÑng cüa ngß¶i mê c¥u	61	1	-1	C¥u mê tiªt nh§t hoÕt ðµng xßng hi®u
+297	32	 Nhi®t Tâm C¥u Mê 	Xem cuµc so tài ðá c¥u l¾n Nhi®t Tâm C¥u Mê.	62	1	1440	Nam phi thª gi¾i bôi xßng hi®u
+298	32	 Cao Ðoan C¥u Mê 	Cuµc tranh tài nhi®t tình Cao Ðoan C¥u Mê.	62	2	1440	Nam phi thª gi¾i bôi xßng hi®u
+299	32	 Tß Thâm C¥u Ðª 	Bình lu§n cuµc tranh tài ðá c¥u Tß Thâm C¥u Ðª.	62	3	1440	Nam phi thª gi¾i bôi xßng hi®u
+300	32	 Hoàng Kim C¥u Th¥n 	Giám ð¸nh và thß·ng thÑc tr§n c¥u Hoàng Kim C¥u Th¥n.	62	4	1440	Nam phi thª gi¾i bôi xßng hi®u
+301	33	#G Ð® TØ 	Danh hi®u sß ð°	63	1	-1	Sß ð° xßng hi®u
+302	34	#G ÐÕi Chß·ng QuÛ 	Danh hi®u Chü Ti®m Thß½ng Hµi CØu Châu	64	1	-1	CØu châu thß½ng hµi xßng hi®u
+303	35	 Nhß Hoa Tñ Ng÷c 	Dung mÕo xinh ð©p nhß hoa nhß ng÷c, khiªn hoa cûng phäi nhß¶ng, nguy®t cûng phäi th©n.	21	1	-1	2010 niên th¤t t¸ch xßng hi®u
+304	35	 Khí Vû B¤t Phàm 	Tß¾ng mÕo, khí khái b¤t phàm, ðªn ðâu cûng ðßþc m÷i ngß¶i tán dß½ng kính n¬.	21	1	-1	2010 niên th¤t t¸ch xßng hi®u
+305	36	 Qu¯c S¡c Thiên Hß½ng 	Chim sa cá l£n, vinh di®u thu cúc, hoa m§u xuân tùng, quä là b§c qu¯c s¡c thiên hß½ng.	21	2	-1	2010 niên th¤t t¸ch xßng hi®u
+306	36	 Phong Lßu Thích Thäng 	Có tài nhßng không câu n® l­ pháp, chï v¾i mµt l¶i nói mµt cØ chï, cûng có th¬ khiªn bao næ hi®p ðµng lòng.	21	2	-1	2010 niên th¤t t¸ch xßng hi®u
+307	37	 Khuynh Qu¯c Khuynh Thành 	B¡c phß½ng hæu giai nhân, tuy®t thª nhi ðµc l§p, nh¤t c¯ khuynh nhân thành, tái c¯ khuynh nhân qu¯c. Ninh b¤t tri khuynh thành dæ khuynh qu¯c, giai nhân nan tái ð¡c.	21	3	-1	2010 niên th¤t t¸ch xßng hi®u
+308	37	 Ng÷c Thø Lâm Phong 	Khí ch¤t siêu phàm, tß¾ng mÕo vßþt Phan An, khiªn cho vô s¯ næ hi®p ái mµ.	21	3	-1	2010 niên th¤t t¸ch xßng hi®u
+309	38	 Quan Tuy®t Nh¤t Thì 	M¾i bß¾c vào thª gi¾i th¶i trang, bß¾c ð¥u träi nghi®m cäm giác m¾i lÕ cüa th¶i trang.	69	1	-1	Y quÛ h® th¯ng
+310	38	 Hà Quang Th§p S¡c 	Theo sát trào lßu th¶i trang, các hÕ chính là ngß¶i sành ði®u trong th¶i trang.	69	2	-1	Y quÛ h® th¯ng
+311	38	 Lång La Bách NÕp 	M²i trào lßu th¶i trang ð«u th¤y có bóng dáng cüa các hÕ.	69	3	-1	Y quÛ h® th¯ng
+312	38	 C¦m Hüy Thiên Ba 	Dùng phong cách th¶i trang thanh l¸ch tinh tª ð¬ dçn d¡t xu hß¾ng th¶i trang, ði ðªn ðâu cûng là tâm ði¬m chú ý.	69	4	-1	Y quÛ h® th¯ng
+313	39	 Quá Hà T¯t 	Träm ð¸ch ðoÕt tr§n, sî binh dûng cäm tiªn t¾i, là chü lñc trong chiªn trß¶ng 	70	1	-1	T¯ng liêu ðÕi chiªn
+314	39	 Quäi Cß¾c Mã 	Vßþt qua ngàn d£m xông pha chiªn trß¶ng, là tinh anh trên chiªn trß¶ng.	70	2	-1	T¯ng liêu ðÕi chiªn
+315	39	 Cách S½n Pháo 	Chiªn th¡ng ngàn d£m, là tß¾ng lînh có chiªn công l¾n và là ngß¶i tài trên chiªn trß¶ng.	70	3	-1	T¯ng liêu ðÕi chiªn
+316	39	 Túng Hoành Xa 	Tung hoành sa trß¶ng, là th¯ng soái tám phß½ng tiêu di®t kë ð¸ch, là tr÷ng tâm trên chiªn trß¶ng.	70	4	-1	T¯ng liêu ðÕi chiªn
+317	39	 Qu¯c Sî Vô Song 	Là Vß½ng giä b¤t khä chiªn bÕi, là truy«n thuyªt trên chiªn  trß¶ng.	70	5	-1	T¯ng liêu ðÕi chiªn
+318	40	 Ti¬u Hæu Danh Khí 	Trong vÕn d£m ai cûng biªt	71	1	-1	Häo hæu ðµng thái
+319	40	 Thanh Danh V«­n Dß½ng 	Tr· nên n±i tiªng, m÷i ngß¶i ngßÞng mµ.	71	2	-1	Häo hæu ðµng thái
+320	40	 Danh Th×a Thiên HÕ 	Vang danh tÑ häi, n±i tiªng kh¡p n½i	71	3	-1	Häo hæu ðµng thái
+321	40	 Häi Nµi Hi®u Hi«n 	Trong kh¡p b¯n bi¬n, chï mình ta ðµc tôn.	71	4	-1	Häo hæu ðµng thái
+322	41	 TÕo Hình Thiªt Kª Sß 	Ph¥n thß·ng thành tñu Danh hi®u TÕo Hình Thiªt Kª Sß	72	1	-1	Thành tñu h® th¯ng
+323	42	 KÜ Thu§t ÐÕi Sß 	Ph¥n thß·ng thành tñu Danh hi®u KÜ Thu§t ÐÕi Sß	73	1	-1	Thành tñu h® th¯ng
+324	43	 Bác H÷c Giä 	Ph¥n thß·ng Danh hi®u Thiên Long Bát Bµ Bát Sñ Thông Thành	74	1	-1	Thành tñu h® th¯ng
+325	44	 Tham Hi¬m Gia 	Ph¥n thß·ng thành tñu Danh hi®u Nhà Thám Hi¬m	75	1	-1	Thành tñu h® th¯ng
+326	45	 Cô Ðµc C¥u BÕi 	Ph¥n thß·ng Danh hi®u Cô Ðµc C¥u BÕi	76	1	-1	Thành tñu h® th¯ng
+327	46	 Phßþng Hoàng C± Thành Ða Di®n Thü 		77	1	-1	Thành tñu h® th¯ng
+328	47	 Trác Lµc Ða Di®n Thü 	Ph¥n thß·ng Danh hi®u thành tñu Trác Lµc Ða Tài	78	1	-1	Thành tñu h® th¯ng
+329	48	 Ðan Thiêu Vß½ng 	Ph¥n thß·ng thành tñu Danh hi®u Ð½n Thiêu Vß½ng	79	1	-1	Thành tñu h® th¯ng
+330	49	 Hoa S½n Lu§n Kiªm Ða Di®n Thü 	Ph¥n thß·ng thành tñu Danh hi®u Hoa S½n Lu§n Kiªm Ða Tài	80	1	-1	Thành tñu h® th¯ng
+331	50	 Vû Lâm Minh Chü 	Ph¥n thß·ng thành tñu Danh hi®u Võ Lâm Minh Chü	81	1	-1	Thành tñu h® th¯ng
+332	51	 Lao Ðµng T¯i Quang V«nh 	Ph¥n thß·ng thành tñu Danh hi®u Th§p HÕng Toàn Nång	82	1	-1	Thành tñu h® th¯ng
+333	52	 ÐÕi Vån Hi®u 	Vån chß½ng lai láng, lßu truy«n thiên c±.	83	1	-1	Trung thu phú t×
+334	53	 Ngû Thäi Tân Phân 	chï c¥n công phu thâm h§m?thiªt b²ng mài thành kim ?Danh hi®u sñ ki®n Thiªt B²ng Mài Thành Kim?	84	1	-1	Huy­n trang
+335	53	 Quang Thäi ÐoÕt Møc 	Nhi«u màu h¤p dçn thu hút m÷i ngß¶i.	84	1	-1	Huy­n trang
+336	53	 Huy­n Trang M¸ Änh 	Ð©p, th¥n bí th§t là r¤t có mê lñc.	84	1	-1	Huy­n trang
+337	54	 Bách Biªn Tinh Linh 	Tùy Tâm s· døc, Tinh Linh bách biªn	85	1	-1	Huy­n trang
+338	54	 Huyªn L® Ða Thäi 	Hoa l® sáng lÕng, muôn màu muôn vë	85	1	-1	Huy­n trang
+339	54	 Thiên Biªn VÕn Hóa 	Ngàn loÕi huy­n giä do ta ch÷n, vÕn loÕi tháp ph¯i tùy ta biªn.	85	1	-1	Huy­n trang
+340	55	AMD Phßþng Hoàng Giß½ng Cánh	Phøng Hoàng mµt khi giß½ng cánh nh¤t ð¸nh bay kh¡p tr¶i !	86	1	-1	Amdv«p ð£c quy«n tÕp
+341	56	 Thiên Xäo Tinh 	Tên c¤p sao	87	1	-1	Giao lßu h® th¯ng
+342	56	 Thiên Kh¯c Tinh 	Tên c¤p sao	87	2	-1	Giao lßu h® th¯ng
+343	56	 Thiên BÕo Tinh 	Tên c¤p sao	87	3	-1	Giao lßu h® th¯ng
+344	56	 Thiên Tu® Tinh 	Tên c¤p sao	87	4	-1	Giao lßu h® th¯ng
+345	56	 Thiên Lao Tinh 	Tên c¤p sao	87	5	-1	Giao lßu h® th¯ng
+346	56	 Thiên BÕi Tinh 	Tên c¤p sao	87	6	-1	Giao lßu h® th¯ng
+347	56	 Thiên T±n Tinh 	Tên c¤p sao	87	7	-1	Giao lßu h® th¯ng
+348	56	 Thiên Tµi Tinh 	Tên c¤p sao	87	8	-1	Giao lßu h® th¯ng
+349	56	 Thiên Bình Tinh 	Tên c¤p sao	87	9	-1	Giao lßu h® th¯ng
+350	56	 Thiên Kiªm Tinh 	Tên c¤p sao	87	10	-1	Giao lßu h® th¯ng
+351	56	 Thiên Th÷ Tinh 	Tên c¤p sao	87	11	-1	Giao lßu h® th¯ng
+352	56	 Thiên Th¯i Tinh 	Tên c¤p sao	87	12	-1	Giao lßu h® th¯ng
+353	56	 Thiên CÑu Tinh 	Tên c¤p sao	87	13	-1	Giao lßu h® th¯ng
+354	56	 Thiên V« Tinh 	Tên c¤p sao	87	14	-1	Giao lßu h® th¯ng
+355	56	 Thiên Sát Tinh 	Tên c¤p sao	87	15	-1	Giao lßu h® th¯ng
+356	56	 Thiên D¸ Tinh 	Tên c¤p sao	87	16	-1	Giao lßu h® th¯ng
+357	56	 Thiên T¯c Tinh 	Tên c¤p sao	87	17	-1	Giao lßu h® th¯ng
+358	56	 Thiên Không Tinh 	Tên c¤p sao	87	18	-1	Giao lßu h® th¯ng
+359	56	 Thiên Hæu Tinh 	Tên c¤p sao	87	19	-1	Giao lßu h® th¯ng
+360	56	 Thiên Ám Tinh 	Tên c¤p sao	87	20	-1	Giao lßu h® th¯ng
+361	56	 Thiên Ti®p Tinh 	Tên c¤p sao	87	21	-1	Giao lßu h® th¯ng
+362	56	 Thiên L§p Tinh 	Tên c¤p sao	87	22	-1	Giao lßu h® th¯ng
+363	56	 Thiên Thß½ng Tinh 	Tên c¤p sao	87	23	-1	Giao lßu h® th¯ng
+364	56	 Thiên Cô Tinh 	Tên c¤p sao	87	24	-1	Giao lßu h® th¯ng
+365	56	 Thiên Mãn Tinh 	Tên c¤p sao	87	25	-1	Giao lßu h® th¯ng
+366	56	 Thiên Phú Tinh 	Tên c¤p sao	87	26	-1	Giao lßu h® th¯ng
+367	56	 Thiên Quý Tinh 	Tên c¤p sao	87	27	-1	Giao lßu h® th¯ng
+368	56	 Thiên Anh Tinh 	Tên c¤p sao	87	28	-1	Giao lßu h® th¯ng
+369	56	 Thiên Uy Tinh 	Tên c¤p sao	87	29	-1	Giao lßu h® th¯ng
+370	56	 Thiên Mãnh Tinh 	Tên c¤p sao	87	30	-1	Giao lßu h® th¯ng
+371	56	 Thiên Hùng Tinh 	Tên c¤p sao	87	31	-1	Giao lßu h® th¯ng
+372	56	 Thiên Dûng Tinh 	Tên c¤p sao	87	32	-1	Giao lßu h® th¯ng
+373	56	 Thiên Nhàn Tinh 	Tên c¤p sao	87	33	-1	Giao lßu h® th¯ng
+374	56	 Thiên Ky Tinh 	Tên c¤p sao	87	34	-1	Giao lßu h® th¯ng
+375	56	 Thiên Cß½ng Tinh 	Tên c¤p sao	87	35	-1	Giao lßu h® th¯ng
+376	56	 Thiên Khôi Tinh 	Tên c¤p sao	87	36	-1	Giao lßu h® th¯ng
+377	57	Bát Phß½ng NhÕn Môn Vô Song 	Công Quan NhÕn Môn, tuy®t thª vô song	88	1	-1	T¯ng liêu ðÕi chiªn
+378	24	 Phiªu Mi¬u Chi Duy Ngã Ðµc Tôn 	Anh hùng b¤t bÕi trên Phiêu Diêu Phong!	43	5	-1	Thiêu chiªn phiªu mi¬u phong hoÕch ð¡c ðích xßng hi®u
+379	27	 Siêu Phàm Nh§p Thánh # HÕo Thiên Tôn Giä 	Hi®n nay mÑc tu luy®n cao nh¤t ðÕt c¤p 12 s¨ nh§n danh hi®u HÕo Thiên Chân Kinh	49	11	-1	Tu luy®n xßng hi®u
+380	1000	 Mê Chi Truy Trøc Giä 	Nguyên Tiêu Ðång Mê Liên Liên Khán HoÕt Ðµng Ðích Xßng Hi®u Tß·ng L®. Giäi Mê ÐÕt Nhân Ðích Tßþng Chinh.	100	1	-1	Nguyên tiêu ðång mê liên liên khán
+381	1000	 Mê Nh¤t DÕng Nhân 	Nguyên Tiêu Ðång Mê Liên Liên Khán HoÕt Ðµng Ðích Xßng Hi®u Tß·ng L®. Giäi Mê Chuyên Gia Ðích Tßþng Chinh.	100	2	-1	Nguyên tiêu ðång mê liên liên khán
+382	1000	 Siêu V«®t Mê Nhân 	Nguyên Tiêu Ðång Mê Liên Liên Khán HoÕt Ðµng Ðích Xßng Hi®u Tß·ng L®. Giäi Mê Siêu Nhân Ðích Tßþng Chinh.	100	3	-1	Nguyên tiêu ðång mê liên liên khán
+383	1001	 Ð¤u TØu H÷c Sî 	Tài Cao Bát Ð¤u, TØu Khí Hoành Thiên.	101	1	-1	Thiên bôi b¤t túy
+384	1001	 Thiên Bôi B¤t Túy 	Bách Niên Tr¥n NhßÞng, Thiên Bôi Hà Túc.	101	2	-1	Thiên bôi b¤t túy
+385	1001	 Thiên HÕ Ð® Nh¤t ÐÕi TØu Hi®u 	TØu Tiên Thánh Danh, Xá Ngã Kì Thùy.	101	3	-1	Thiên bôi b¤t túy
+386	1002	 Kích Tình TÑ XÕ 	HoÕt Lñc Vô HÕn, Lãng MÕn Th¸nh Yªn.	102	1	-1	Mân côi chi luyªn
+387	1002	 Thanh Sáp Bäo B¯i 	Vô HÕ Chi Tình, Mông Lông Chi Ý.	103	1	-1	Mân côi chi luyªn
+388	1002	 Lãng MÕn Trán Phóng 	S½n Vô Lång, Thiên Ð¸a Hþp, Nãi Cäm Dæ Quân Tuy®t.	104	1	-1	Mân côi chi luyªn
+389	1002	 Hoa DÕng Niên Hoa 	Xuyên Vô Khích, Ki«n Khôn Chí Di®c Khä Dæ Khanh Bi®t.	104	1	-1	Mân côi chi luyªn
+390	1002	 Thu¥n Chân Ái Luyªn 	Næ V« Duy®t KÖ Giä Dung	105	1	-1	Mân côi chi luyªn
+391	1002	 Khiêm Khiêm Quân TØ 	Quân V« Tri KÖ Giä Duy®t	105	1	-1	Mân côi chi luyªn
+392	1002	 Lam S¡c Yêu C½ 	ThØ V§t Chích Nhân Thiên Thßþng Hæu, Nhân Gian Nan Ð¡c Kï H°i C¥u.	106	1	-1	Mân côi chi luyªn
+393	1002	 Mân Côi KÜ Sî 	Häi Khô ThÕch LÕn Ðãi ThØ Tình, Thiên C± Giai ThoÕi Vînh Lßu Truy®n.	106	1	-1	Mân côi chi luyªn
+394	1003	 Thánh Ðän HÕnh V§n #45	Thánh Ðän Tiªt Kì Gian Thßþng Tuyªn NgoÕn Gia Hæu Ky Hµi Thành V« Niên Ðµ T¯i Di®u Nhãn Ðích thánh Ðän HÕnh V§n Tinh.	107	1	-1	Thánh ðän hÕnh v§n tinh hoÕt ðµng
+395	1004	 Long Môn Thü V® Giä 	TÕi HoÕt Ðµng Kì Gian V« Long Môn Khách SÕn Ðích Kiªn Thiªt T¯ Xu¤t Li­u Cñ ÐÕi Ðích C¯ng Hiªn	108	1	360	Long môn chuyên chúc lu§n ðàn hoÕt ðµng tß·ng l® xßng hi®u
+396	1005	 Mµng Ð±ng Xu¤t Mao Lß 	HoÕch Ð¡c 1000 Ði¬m Thành Tñu Tr¸	109	1	-1	Thành tñu h® th¯ng
+397	1005	 Kiªm Khí Lµ Phong Mang 	HoÕch Ð¡c 2000 Ði¬m Thành Tñu Tr¸	109	2	-1	Thành tñu h® th¯ng
+398	1005	 Hi®u Tình S¤m Thiên HÕ 	HoÕch Ð¡c 3000 Ði¬m Thành Tñu Tr¸	109	3	-1	Thành tñu h® th¯ng
+399	1005	 Tiêu Sái Nhâm Ngã Hành 	HoÕch Ð¡c 4000 Ði¬m Thành Tñu Tr¸	109	4	-1	Thành tñu h® th¯ng
+400	1006	 T¥m T¥m M¸ch M¸ch T§p Ð° Giám 	Khai Thüy Li­u Ð° Giám Thu Tàng Chi Læ, T¸nh Ti¬u Hæu Thành Tích.	110	1	-1	Thiên long ð° giám
+401	1006	 Hi®u Tình VÕn Trßþng Tr× Yêu Ma 	Tri Hi¬u ÐÕi Ða S± Phän Phái Giác S¡c, T¸nh Hòa Tha Môn Tiªn Hành Quá Kích Li®t Ðích Chiªn Ð¤u.	111	1	-1	Thiên long ð° giám
+402	1006	 Tß½ng BÕn Trß¶ng V«­n Duy Trân Thú 	Tri Hi¬u ÐÕi Ða S± Trân Thú, TÕi Trân Thú Ð° Giám Thu Tàng Phß½ng Di®n Thü Ð¡c Li­u Nh¤t Ð¸nh Thành Tñu.	112	1	-1	Thiên long ð° giám
+403	1006	 T¥m KÜ Thiên Lí Tñ Bá NhÕc 	Tri Hi¬u ÐÕi Ða S± T÷a KÜ, TÕi T÷a KÜ Ð° Giám Thu Tàng Phß½ng Di®n Thü Ð¡c Li­u Nh¤t Ð¸nh Thành Tñu.	113	1	-1	Thiên long ð° giám
+404	1006	 C¦m Y Ng÷c SÑc Tùy Thân Phçn 	Tri Hi¬u ÐÕi Ða S± Thì Trang, TÕi Thì Trang Ð° Giám Thu Tàng Phß½ng Di®n Thü Ð¡c Li­u Nh¤t Ð¸nh Thành Tñu.	114	1	-1	Thiên long ð° giám
+405	1006	 Duyªn Ð¸nh Thiên Long Nhâm Ngã Du 	Vô S· B¤t Tri, Vô S· B¤t Hi¬u, VÕn Chúng Kính NgßÞng Ðích T°n TÕi!	115	1	-1	Thiên long ð° giám
+406	1007	 Thäo Mµc Thành Binh 	Ð¯i Mµc Nhân Tr§n Hæu TrÑ Hæu Li­u Nh¤t Ð¸nh Ðích Lí Giäi, Khä Dî TÕi Kì Trung Lai KhÑ Tñ Nhß.	117	1	-1	Mµc nhân tr§n ðan thÑ t¯i cao l¸ch luy®n
+407	1007	 Nh§p Mµc Tam Phân 	B¢ng Tá Cao Siêu Ðích Kî Xäo TÕi Mµc Nhân Tr§n Trung HoÕch Ð¡c Li­u Cñc Cao Ðích Tán Dñ.	117	2	-1	Mµc nhân tr§n ðan thÑ t¯i cao l¸ch luy®n
+408	1007	 Niêm Hoa Mµc Nhân Hi®p 	Ð¯i Mµc Nhân Tr§n Dî Kinh ÐÕt Ðáo Bª Møc Nhi Hành, Li­u Nhiên Vu Hung Ðích Ð¸a Bµ.	117	3	-1	Mµc nhân tr§n luy kª l¸ch luy®n
+409	1008	 Hàn Mµc Xuân Hoa 	Ðông KhÑ Xuân Lai, TÕi Mµc Nhân Tr§n Trung Lînh Ngµ Ðáo Nh¤t Ta Thông Quan Kî Xäo.	118	1	-1	Mµc nhân tr§n luy kª l¸ch luy®n
+410	1008	 Khô Mµc Sinh Hoa 	Nh§t Phøc Nh¤t Nh§t, Niên Phøc Nh¤t Niên, Mµc Nhân Tr§n Ðích Thông Quan Kî Xäo Hñu Hæu S· Tång Trß¶ng.	118	2	-1	Mµc nhân tr§n luy kª l¸ch luy®n
+411	1009	 Chích Yªu Công Phu Thâm 	Chích Yªu Công Phu Thâm, Thiªt B±ng Ma Thành Châm.2011 Niên Lao Ðµng Tiªt HoÕt Ðµng Xßng Hi®u.	119	1	-1	2011 niên lao ðµng tiªt hoÕt ðµng: Chích yªu công phu thâm ðoái hoán
+412	1010	 Ðào T× Giám Thß·ng Gia 	Tàng Thª Gian Trân Ph¦m, Thß·ng Thiên C± Kì V§t!	120	1	-1	Xäo ðoÕt thiên công trân bäo tàng
+413	1011	#G Túc Ð¸ch 	Túc M®nh Chi Chiªn, Kî Cao Nh¤t Trù.	121	1	-1	C×u ð¸ch h® th¯ng
+414	1011	#G M®nh Trung Kh¡c Tinh 	Chiªn Vô B¤t Th¡ng, M®nh Trung Kh¡c Tinh.	121	2	-1	C×u ð¸ch h® th¯ng
+415	1011	#G Túc Ð¸ch 	Túc M®nh Chi Chiªn, Kî Cao Nh¤t Trù.	122	1	-1	C×u ð¸ch h® th¯ng
+416	1011	#G M®nh Trung Kh¡c Tinh 	Chiªn Vô B¤t Th¡ng, M®nh Trung Kh¡c Tinh.	122	2	-1	C×u ð¸ch h® th¯ng
+417	1011	#G Túc Ð¸ch 	Túc M®nh Chi Chiªn, Kî Cao Nh¤t Trù.	123	1	-1	C×u ð¸ch h® th¯ng
+418	1011	#G M®nh Trung Kh¡c Tinh 	Chiªn Vô B¤t Th¡ng, M®nh Trung Kh¡c Tinh.	123	2	-1	C×u ð¸ch h® th¯ng
+419	1011	#G Túc Ð¸ch 	Túc M®nh Chi Chiªn, Kî Cao Nh¤t Trù.	124	1	-1	C×u ð¸ch h® th¯ng
+420	1011	#G M®nh Trung Kh¡c Tinh 	Chiªn Vô B¤t Th¡ng, M®nh Trung Kh¡c Tinh.	124	2	-1	C×u ð¸ch h® th¯ng
+421	1011	#G Túc Ð¸ch 	Túc M®nh Chi Chiªn, Kî Cao Nh¤t Trù.	125	1	-1	C×u ð¸ch h® th¯ng
+422	1011	#G M®nh Trung Kh¡c Tinh 	Chiªn Vô B¤t Th¡ng, M®nh Trung Kh¡c Tinh.	125	2	-1	C×u ð¸ch h® th¯ng
+423	1011	#G Túc Ð¸ch 	Túc M®nh Chi Chiªn, Kî Cao Nh¤t Trù.	126	1	-1	C×u ð¸ch h® th¯ng
+424	1011	#G M®nh Trung Kh¡c Tinh 	Chiªn Vô B¤t Th¡ng, M®nh Trung Kh¡c Tinh.	126	2	-1	C×u ð¸ch h® th¯ng
+425	1011	#G Túc Ð¸ch 	Túc M®nh Chi Chiªn, Kî Cao Nh¤t Trù.	127	1	-1	C×u ð¸ch h® th¯ng
+426	1011	#G M®nh Trung Kh¡c Tinh 	Chiªn Vô B¤t Th¡ng, M®nh Trung Kh¡c Tinh.	127	2	-1	C×u ð¸ch h® th¯ng
+427	1011	#G Túc Ð¸ch 	Túc M®nh Chi Chiªn, Kî Cao Nh¤t Trù.	128	1	-1	C×u ð¸ch h® th¯ng
+428	1011	#G M®nh Trung Kh¡c Tinh 	Chiªn Vô B¤t Th¡ng, M®nh Trung Kh¡c Tinh.	128	2	-1	C×u ð¸ch h® th¯ng
+429	1011	#G Túc Ð¸ch 	Túc M®nh Chi Chiªn, Kî Cao Nh¤t Trù.	129	1	-1	C×u ð¸ch h® th¯ng
+430	1011	#G M®nh Trung Kh¡c Tinh 	Chiªn Vô B¤t Th¡ng, M®nh Trung Kh¡c Tinh.	129	2	-1	C×u ð¸ch h® th¯ng
+431	1011	#G Túc Ð¸ch 	Túc M®nh Chi Chiªn, Kî Cao Nh¤t Trù.	130	1	-1	C×u ð¸ch h® th¯ng
+432	1011	#G M®nh Trung Kh¡c Tinh 	Chiªn Vô B¤t Th¡ng, M®nh Trung Kh¡c Tinh.	130	2	-1	C×u ð¸ch h® th¯ng
+433	1012	 Kiªm Khiªu Nh¤t Phß½ng # Lång Nhân Tài Tu¤n 	Kiªm Ý Lång Nhân, Tài Khuynh Nh¤t Phß½ng.	131	4	-1	Toàn qu¯c tranh phách tái
+434	1012	 Uy Ch¤n Qu¥n Hùng # Thß¶ng Th¡ng Anh Hi®u 	Anh Hi®u Cß½ng Mãnh, Thß¶ng Th¡ng Chi Tß.	131	5	-1	Toàn qu¯c tranh phách tái
+435	1012	 Kiêu Dûng Tuy®t Nhân # Siêu Phàm Vû Tông 	Siêu Phàm Vû Ngh®, Kiêu Dûng Vô Th¤t.	131	6	-1	Toàn qu¯c tranh phách tái
+436	1012	 Ðµc Bµ Giang H° # Kinh Thª Vû Tôn 	NgÕo Th¸ Giang H°, Ðµc Bµ Vû Lâm.	131	7	-1	Toàn qu¯c tranh phách tái
+437	1012	 Thiên HÕ Ð® Nh¤t # Vô Song Vû Thánh 	Thiên HÕ Ð® Nh¤t, Vß½ng Giä Vô Song.	131	8	-1	Toàn qu¯c tranh phách tái
+438	1013	 Tuy®t Thª Giai Nhân 	Tuy®t Thª Phong Hoa, Di®u Dung Tiên Tß. Khuynh Thª Giai Nhân, Uy¬n Nhßþc H÷a Trung Vân Tiên.	132	1	-1	2011 niên th¤t t¸ch xßng hi®u
+439	1013	 Long Chß½ng Phßþng Tß 	Long Chß½ng Phßþng Thäi, Kì Ch¤t Thiên Nhiên. Tr¸ch Quä Phan Lang, Hñu Kiêm Kinh Tài Phong D§t.	133	1	-1	2011 niên th¤t t¸ch xßng hi®u
+440	1014	 T¤t Lµ Phong Mang # Hi®u Tình Hi®p Khách 	Phong Mang T¤t Lµ, Nh¤t Thª Hi®p Tình.	131	1	-1	Toàn qu¯c tranh phách tái
+441	1014	 Uy Danh Trác TrÑ # NgÕo Chí Nhân Ki®t 	Uy Danh Trác TrÑ, H°ng Hµc V«­n Chí.	131	2	-1	Toàn qu¯c tranh phách tái
+442	1014	 Vû Lßþc Siêu Phàm # Ðß½ng Thª Hùng Ki®t 	Vû Lßþc Siêu Qu¥n, Ðß½ng Thª Hùng Tài.	131	3	-1	Toàn qu¯c tranh phách tái
+443	1015	 Giang H° Quái Sî 	Giang H° Thu§t Sî, Nh¤t Quái Cát Hung.	134	1	1440	Quan chú toàn qu¯c tranh phách tái
+444	1015	 Khuy Tham Thiên Ky 	Ti®t Thü Thiên Ky, Khuy V¤n Âm Dß½ng.	134	2	1440	Quan chú toàn qu¯c tranh phách tái
+445	1015	 Ðß½ng ÐÕi Th¥n Toán 	Nh¤t ÐÕi Th¥n Toán, Liêu Tçn Ki«n Khôn.	134	3	1440	Quan chú toàn qu¯c tranh phách tái
+446	1015	 Thông Phán C± Kim 	Vån Vß½ng Ðß½ng Thª, Phán Ð¸nh C± Kim.	134	4	1440	Quan chú toàn qu¯c tranh phách tái
+447	1016	#235 Hi®p Giä Nhân Tâm #235	Hi®p Chi ÐÕi Giä Nhân Tâm Th¸nh, Kiêm Hoài Thiên HÕ Báo Qu¯c Dân. Dûng Phá Kì Tr§n Cñ Cß¶ng L², Giang H° Thanh SØ Lßu Phß½ng Danh.	135	1	-1	Binh thánh kì tr§n
+448	1016	#232 Sát Tr§n Hành Giä #232	Kì Tr§n Sát Ky TÑ HÕ Phøc, Khinh Miêu ÐÕm Tä Phá Ð¸ch Xu¤t. Nhâm Nhî Phong Lâm Kh·i Huyªt S¡c, ÐÕp Bình Höa S½n Ch¤n Liêu Tµc.	135	2	-1	Binh thánh kì tr§n
+449	1016	#231 Hùng Tài Vî Lßþc #231	Thân V« Giang H° Hi®u Ki®t Khách, Khß¾c Hi¬u Tôn TØ Vû Møc Thß. Hùng Tài Vî Lßþc Phù Chính ÐÕo, Qu¯c Chi Ð¯ng Lß½ng Chú Bi Thß.	135	3	-1	Binh thánh kì tr§n
+450	1016	#229 Tiên Thánh Di Phong #229	Binh Thánh Thiên C± TrÑ Tr§n Thß, Khª Ðan T§p Di­n Ý Nam Ð°. Ky Quan Toán Tçn Chung Tao Khí, Tôn Vû Di Phong Hæu T¯ng Th±.	135	4	-1	Binh thánh kì tr§n
+451	1016	#236 QuÖ C¯c Vô Song #236	Tinh Thông Tr§n Pháp V§n Chi ÐÕo, Thâm U¦n Phá Ð¸ch Hành Chi Di®u. Th¥n Ky Khä Bï Trß½ng QuÖ C¯c, Trí Mßu Ðß½ng Thª Tái Vô Song.	135	5	-1	Binh thánh kì tr§n
+452	1017	 ÐÕt Ma Ðß¶ng La Hán 	La Hán Kim Thân, Thích Thi®n Tôn Giä.	136	1	-1	Môn phái tiªn giai thi¬u lâm
+453	1017	 Vû Tông Ð® TØ 	Thßþng Thi®n Nhßþc Thüy, ÐÕo Pháp Tñ Nhiên.	136	1	-1	Môn phái tiªn giai vû ðß½ng
+454	1017	 Thánh Höa Hµ Pháp 	V« Thi®n Tr× Ác, Duy Quang Minh C¯.	136	1	-1	Môn phái tiªn giai minh giáo
+455	1017	 TÑ ÐÕi Ð® TØ 	Hi®p Nghîa Chi Hành, Tiên T°n Vu Tâm.	136	1	-1	Môn phái tiªn giai cái bang
+456	1017	 Ch¤p Kiªm Ð® TØ 	Ch¤p Kiªm Nga Mi, Tu Thân Døc Nhân.	136	1	-1	Môn phái tiªn giai nga mi
+457	1017	 Tiêu Diêu Tán Nhân 	Tâm Hæu Phß½ng Quy, Tùy Døc Nhi Hành.	136	1	-1	Môn phái tiªn giai tiêu diêu
+458	1017	 CØu Thiên Ðô Ð® TØ 	CØu Thiên Bµ Ðô, VÕn Nhân Kính NgßÞng.	136	1	-1	Môn phái tiªn giai thiên s½n
+459	1017	 Kh± Thi®n Ð® TØ 	Kh± Hành Tu Thi®n, VÕn Pháp Giai Không.	136	1	-1	Môn phái tiªn giai thiên long
+460	1017	 Yªn Vß½ng Quý Trø 	ÐÕi Yªn H§u Du®, Qu¯c Chi Tr÷ng Th¬.	136	1	-1	Môn phái tiªn giai mµ dung
+461	1017	 Ngû Ðµc Hành Giä 	Ngû Ðµc Luân H°i, Hành Giä Hæu ÐÕo.	136	1	-1	Môn phái tiªn giai tinh túc
+462	1018	#G Tán Nhân 	Thª Tµc Trung Ðích Ph± Thông Thành V«ên, Thª Tµc Trung Nhân S± T¯i Ða Ðích Bµ Phân.	137	1	-1	Thª tµc xßng hi®u
+463	1018	#G Hi®u Ki®t 	Thª Tµc Trung Ðích Tinh Anh Phân TØ, Thª Tµc Trung Ðích Trung Kiên Lñc Lßþng.	137	2	-1	Thª tµc xßng hi®u
+464	1018	#G Trß¶ng Lão 	Thª Tµc Trung Ð¸a V¸ ThÑ Vu Tµc Vß½ng Ðích Nhân, Thª Tµc Ðích Phø Trþ Quän Lí Giä.	137	3	-1	Thª tµc xßng hi®u
+465	1018	#G Tµc Vß½ng 	Thª Tµc Trung Ð¸a V¸ T¯i Tôn Quý Ðích Nhân, Thª Tµc Ðích T¯i Cao Quän Lí Giä.	137	4	-1	Thª tµc xßng hi®u
+466	1019	 Khoáng Thª Tung Mê 	HÑa Tung Ðích Thiªt Can Ca Mê	138	1	-1	HÑa tung hoÕt ðµng tß·ng l® xßng hi®u
+467	1020	 Danh Ch¤n Thi¬u Th¤t Giang H° Tình 	Thi¬u Th¤t S½n Thßþng Lñc Chiªn Giang H° LßÞng ÐÕi Tuy®t Thª Cao Thü, Thuyên Thích Li­u Thª Gian T¯i V« Trân Quý Ðích Thân Tình.	139	1	-1	Thi¬u th¤t s½n
+468	1021	 Long Chinh Ngû Tái Hành Thiên HÕ 	Thiên Long Chinh Trình Thiên Lí Lµ, Ngû Tái Tuª Nguy®t Hành Thiên HÕ.	140	1	-1	Ngû chu niên long chinh ngû tái
+469	1021	 Long Chinh Ngû Tái Chiªn Giang H° 	Thiên Long Chinh Trình VÕn Lí Lµ, Ngû Tái Tuª Nguy®t Chiªn Giang H°.	140	2	-1	Ngû chu niên long chinh ngû tái
+470	1022	 Sß¾ng Du Bách Sñ Thông 	Ðß½ng Chi Vô Quý Ðích Sß¾ng Du Bách Sñ Thông.	141	1	-1	Sß¾ng du th§p chu niên v¤n ðáp
+471	1016	#231 Ðµc Bµ Giang H° #231	Tinh Thông Tr§n Pháp V§n Chi ÐÕo, Thâm U¦n Phá Ð¸ch Hành Chi Di®u. Th¥n Ky Khä Bï Trß½ng QuÖ C¯c, Trí Mßu Ðß½ng Thª Tái Vô Song.	135	6	-1	Binh thánh kì tr§n
+472	1016	#236 Thiên Nhân Hþp Nh¤t #236	Tinh Thông Tr§n Pháp V§n Chi ÐÕo, Thâm U¦n Phá Ð¸ch Hành Chi Di®u. Th¥n Ky Khä Bï Trß½ng QuÖ C¯c, Trí Mßu Ðß½ng Thª Tái Vô Song.	135	7	-1	Binh thánh kì tr§n
+473	1023	#236 Tam Hoa Tø Ðính #236	Ðß½ng Ti«n T¯i Cao Tu Luy®n Cänh Gi¾i ÐÕt Ðáo Ð® 1 Tr÷ng HoÕch Ð¡c Ðích Xßng Hi®u	135	8	-1	Binh thánh kì tr§n
+474	1023	#236 Ngû Khí Triêu Nguyên #236	Ðß½ng Ti«n T¯i Cao Tu Luy®n Cänh Gi¾i ÐÕt Ðáo Ð® 2 Tr÷ng HoÕch Ð¡c Ðích Xßng Hi®u	135	9	-1	Binh thánh kì tr§n
+475	1023	#236 Siêu Phàm Vû Tông #236	Ðß½ng Ti«n T¯i Cao Tu Luy®n Cänh Gi¾i ÐÕt Ðáo Ð® 3 Tr÷ng HoÕch Ð¡c Ðích Xßng Hi®u	135	10	-1	Binh thánh kì tr§n
+476	1023	#236 Kinh Thª Vû Tôn #236	Ðß½ng Ti«n T¯i Cao Tu Luy®n Cänh Gi¾i ÐÕt Ðáo Ð® 4 Tr÷ng HoÕch Ð¡c Ðích Xßng Hi®u	135	11	-1	Binh thánh kì tr§n
+477	1023	#236 Khoáng Thª Vû Thánh #236	Ðß½ng Ti«n T¯i Cao Tu Luy®n Cänh Gi¾i ÐÕt Ðáo Ð® 5 Tr÷ng HoÕch Ð¡c Ðích Xßng Hi®u	135	12	-1	Binh thánh kì tr§n
+478	1023	#235 Vô Song Vû Thánh #235	Ðß½ng Ti«n T¯i Cao Tu Luy®n Cänh Gi¾i ÐÕt Ðáo Ð® 6 Tr÷ng HoÕch Ð¡c Ðích Xßng Hi®u	135	13	-1	Binh thánh kì tr§n
+479	1023	#236 Tuy®t Thª Phong Hoa #236	Ðß½ng Ti«n T¯i Cao Tu Luy®n Cänh Gi¾i ÐÕt Ðáo Ð® 7 Tr÷ng HoÕch Ð¡c Ðích Xßng Hi®u	135	14	-1	Binh thánh kì tr§n
+480	1023	#236 Siêu Phàm Nh§p Thánh #236	Ðß½ng Ti«n T¯i Cao Tu Luy®n Cänh Gi¾i ÐÕt Ðáo Ð® 8 Tr÷ng HoÕch Ð¡c Ðích Xßng Hi®u	135	15	-1	Binh thánh kì tr§n

@@ -1,0 +1,7 @@
+[System]
+navmapname=shenjie_8.nav
+monsterfile=shenjie_8_monster.ini
+patrolpoint=shenjie_8_patrolpoint.ini
+growpointdata=shenjie_8_growpoint.txt
+growpointsetup=shenjie_8_growpointsetup.txt
+eventfile=shenjie_8_area.ini

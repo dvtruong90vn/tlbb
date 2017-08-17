@@ -1,0 +1,264 @@
+INT	STRING	STRING	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT
+ÕäÊÞ±àºÅ	ÕäÊÞÃû³Æ$1$	ÕäÊÞÃèÊö$1$	ÕäÊÞ³öÏÖ¼¸ÂÊ	ÕäÊÞ³öÏÖ¼¸ÂÊ	ÕäÊÞ³öÏÖ¼¸ÂÊ	ÕäÊÞ³öÏÖ¼¸ÂÊ	ÕäÊÞ³öÏÖ¼¸ÂÊ	ÕäÊÞ³öÏÖ¼¸ÂÊ	ÕäÊÞ³öÏÖ¼¸ÂÊ	ÕäÊÞ³öÏÖ¼¸ÂÊ	ÕäÊÞ³öÏÖ¼¸ÂÊ	ÕäÊÞ³öÏÖ¼¸ÂÊ	ÕäÊÞ³öÏÖ¼¸ÂÊ	ÕäÊÞ³öÏÖ¼¸ÂÊ	ÕäÊÞ³öÏÖ¼¸ÂÊ	ÕäÊÞ³öÏÖ¼¸ÂÊ
+3000	Th¯ Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM130,86,112,-1}#W"	68	10000	10000	1250	500	361	1000	1000	1000	1000	1000	1000	500	361
+3001	Th¯ Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM130,86,112,-1}#W"	100	0	0	0	0	0	1000	1000	1000	1000	1000	1000	0	0
+3009	Th¯ TØ Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM130,86,112,-1}#W"	250	0	0	0	0	0	1000	1000	1000	1000	1000	1000	0	0
+3010	Yªn TØ Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM54,65,112,-1}#W"	34	0	0	1250	500	357	1000	1000	1000	1000	1000	1000	500	357
+3011	Yªn TØ Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM54,65,112,-1}#W"	50	0	0	0	0	0	1000	1000	1000	1000	1000	1000	0	0
+3019	Yªn TØ Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM54,65,112,-1}#W"	250	0	0	0	0	0	1000	1000	1000	1000	1000	1000	0	0
+3020	Quy Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM169,66,112,-1}#W"	34	0	0	0	0	0	1000	1000	1000	1000	1000	1000	0	0
+3021	Quy Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM169,66,112,-1}#W"	50	0	0	0	0	0	1000	1000	1000	1000	1000	1000	0	0
+3029	Quy Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM169,66,112,-1}#W"	250	0	0	0	0	0	1000	1000	1000	1000	1000	1000	0	0
+3030	C¦u TØ Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM234,57,112,-1}#W"	68	0	0	1250	500	357	1000	1000	1000	1000	1000	1000	500	357
+3031	C¦u TØ Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM234,57,112,-1}#W"	100	0	0	0	0	0							0	0
+3039	C¦u TØ Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM234,57,112,-1}#W"	250	0	0	0	0	0							0	0
+3040	Nhím Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM139,111,112,-1}#W"	34	0	0	1250	500	357							500	357
+3041	Nhím Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM139,111,112,-1}#W"	50	0	0	0	0	0							0	0
+3049	Nhím Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM139,111,112,-1}#W"	250	0	0	0	0	0							0	0
+3050	H¥u TØ Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM203,69,112,-1}#W"	34	0	0	1250	500	357							500	357
+3051	H¥u TØ Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM203,69,112,-1}#W"	50	0	0	0	0	0							0	0
+3059	H¥u TØ Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM203,69,112,-1}#W"	250	0	0	0	0	0							0	0
+3060	Tùng ThØ Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM175,128,112,-1}#W"	36	0	0	1250	500	357							500	357
+3061	Tùng ThØ Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM175,128,112,-1}#W"	25	0	0	0	0	0							0	0
+3062	Tùng ThØ Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM175,128,112,-1}#W"	25	0	0	0	0	0							0	0
+3069	Tùng ThØ Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM175,128,112,-1}#W"	250	0	0	0	0	0							0	0
+3070	Hoán Hùng Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM115,122,112,-1}#W"	34	0	0	1250	500	357							500	357
+3071	Hoán Hùng Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM115,122,112,-1}#W"	25	0	0	0	0	0							0	0
+3072	Hoán Hùng Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM115,122,112,-1}#W"	25	0	0	0	0	0							0	0
+3079	Hoán Hùng Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM115,122,112,-1}#W"	250	0	0	0	0	0							0	0
+3080	Anh Vû Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM153,157,112,-1}#W"	34	0	0	1250	500	357							500	357
+3081	Anh Vû Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM153,157,112,-1}#W"	25	0	0	0	0	0							0	0
+3082	Anh Vû Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM153,157,112,-1}#W"	25	0	0	0	0	0							0	0
+3089	Anh Vû Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM153,157,112,-1}#W"	250	0	0	0	0	0							0	0
+3090	Tích D¸ch Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM101,155,112,-1}#W"	34	0	0	0	500	357							500	357
+3091	Tích D¸ch Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM101,155,112,-1}#W"	25	0	0	0	0	0							0	0
+3092	Tích D¸ch Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM101,155,112,-1}#W"	25	0	0	0	0	0							0	0
+3099	Tích D¸ch Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM101,155,112,-1}#W"	250	0	0	0	0	0							0	0
+3100	Bi¬n BÑc Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM228,166,112,-1}#W"	34	0	0	0	500	357							500	357
+3101	Bi¬n BÑc Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM228,166,112,-1}#W"	25	0	0	0	0	0							0	0
+3102	Bi¬n BÑc Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM228,166,112,-1}#W"	25	0	0	0	0	0							0	0
+3109	Bi¬n BÑc Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM228,166,112,-1}#W"	250	0	0	0	0	0							0	0
+3110	Ðß¶ng Lang Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM59,151,112,-1}#W"	68	0	0	0	500	357							500	357
+3111	Ðß¶ng Lang Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM59,151,112,-1}#W"	50	0	0	0	0	0							0	0
+3112	Ðß¶ng Lang Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM59,151,112,-1}#W"	50	0	0	0	0	0							0	0
+3119	Ðß¶ng Lang Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM59,151,112,-1}#W"	250	0	0	0	0	0							0	0
+3120	NgÕc Ngß Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM68,112,112,-1}#W"	68	0	0	0	500	357							500	357
+3121	NgÕc Ngß Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM68,112,112,-1}#W"	50	0	0	0	0	0							0	0
+3122	NgÕc Ngß Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM68,112,112,-1}#W"	50	0	0	0	0	0							0	0
+3129	NgÕc Ngß Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM68,112,112,-1}#W"	250	0	0	0	0	0							0	0
+3130	Miêu Ð¥u ¿ng Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM61,218,112,-1}#W"	34	0	0	0	500	357							500	357
+3131	Miêu Ð¥u ¿ng Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM61,218,112,-1}#W"	16	0	0	0	0	0							0	0
+3132	Miêu Ð¥u ¿ng Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM61,218,112,-1}#W"	16	0	0	0	0	0							0	0
+3133	Miêu Ð¥u ¿ng Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM61,218,112,-1}#W"	16	0	0	0	0	0							0	0
+3139	Miêu Ð¥u ¿ng Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM61,218,112,-1}#W"	250	0	0	0	0	0							0	0
+3140	Ch°n Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM62,256,112,-1}#W"	36	0	0	0	500	357							500	357
+3141	Ch°n Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM62,256,112,-1}#W"	16	0	0	0	0	0							0	0
+3142	Ch°n Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM62,256,112,-1}#W"	16	0	0	0	0	0							0	0
+3143	Ch°n Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM62,256,112,-1}#W"	16	0	0	0	0	0							0	0
+3149	Ch°n Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM62,256,112,-1}#W"	250	0	0	0	0	0							0	0
+3150	H± Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM96,254,112,-1}#W"	136	0	0	0	500	357							500	357
+3151	H± Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM96,254,112,-1}#W"	64	0	0	0	0	0							0	0
+3152	H± Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM96,254,112,-1}#W"	64	0	0	0	0	0							0	0
+3153	H± Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM96,254,112,-1}#W"	64	0	0	0	0	0							0	0
+3159	H± Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM96,254,112,-1}#W"	250	0	0	0	0	0							0	0
+3160	Dã Trß Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM127,254,112,-1}#W"	36	0	0	0	500	357							500	357
+3161	Dã Trß Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM127,254,112,-1}#W"	16	0	0	0	0	0							0	0
+3162	Dã Trß Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM127,254,112,-1}#W"	16	0	0	0	0	0							0	0
+3163	Dã Trß Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM127,254,112,-1}#W"	16	0	0	0	0	0							0	0
+3169	Dã Trß Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM127,254,112,-1}#W"	250	0	0	0	0	0							0	0
+3170	Bång T¢m Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM192,232,112,-1}#W"	68	0	0	0	500	357							500	357
+3171	Bång T¢m Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM192,232,112,-1}#W"	24	0	0	0	0	0							0	0
+3172	Bång T¢m Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM192,232,112,-1}#W"	24	0	0	0	0	0							0	0
+3173	Bång T¢m Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM192,232,112,-1}#W"	24	0	0	0	0	0							0	0
+3174	Bång T¢m Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM192,232,112,-1}#W"	24	0	0	0	0	0							0	0
+3179	Bång T¢m Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM192,232,112,-1}#W"	250	0	0	0	0	0							0	0
+3180	¿ng Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM216,270,112,-1}#W"	36	0	0	0	500	357							500	357
+3181	¿ng Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM216,270,112,-1}#W"	6	0	0	0	0	0							0	0
+3182	¿ng Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM216,270,112,-1}#W"	6	0	0	0	0	0							0	0
+3183	¿ng Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM216,270,112,-1}#W"	6	0	0	0	0	0							0	0
+3184	¿ng Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM216,270,112,-1}#W"	6	0	0	0	0	0							0	0
+3189	¿ng Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM216,270,112,-1}#W"	250	0	0	0	0	0							0	0
+3190	Ðà Ði¬u Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM181,268,112,-1}#W"	36	0	0	0	500	357							500	357
+3191	Ðà Ði¬u Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM181,268,112,-1}#W"	2	0	0	0	0	0							0	0
+3192	Ðà Ði¬u Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM181,268,112,-1}#W"	2	0	0	0	0	0							0	0
+3193	Ðà Ði¬u Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM181,268,112,-1}#W"	2	0	0	0	0	0							0	0
+3194	Ðà Ði¬u Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM181,268,112,-1}#W"	2	0	0	0	0	0							0	0
+3199	Ðà Ði¬u Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM181,268,112,-1}#W"	250	0	0	0	0	0							0	0
+3200	Báo Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM250,236,112,-1}#W"	36	0	0	0	500	357							500	357
+3201	Báo Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM250,236,112,-1}#W"	2	0	0	0	0	0							0	0
+3202	Báo Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM250,236,112,-1}#W"	2	0	0	0	0	0							0	0
+3203	Báo Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM250,236,112,-1}#W"	2	0	0	0	0	0							0	0
+3204	Báo Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM250,236,112,-1}#W"	2	0	0	0	0	0							0	0
+3209	Báo Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM250,236,112,-1}#W"	250	0	0	0	0	0							0	0
+3210	B¡c Cñc Hùng Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM216,223,112,-1}#W"	68	0	0	0	0	357							0	357
+3211	B¡c Cñc Hùng Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM216,223,112,-1}#W"	20	0	0	0	0	0							0	0
+3212	B¡c Cñc Hùng Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM216,223,112,-1}#W"	20	0	0	0	0	0							0	0
+3213	B¡c Cñc Hùng Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM216,223,112,-1}#W"	20	0	0	0	0	0							0	0
+3214	B¡c Cñc Hùng Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM216,223,112,-1}#W"	20	0	0	0	0	0							0	0
+3215	B¡c Cñc Hùng Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM216,223,112,-1}#W"	20	0	0	0	0	0							0	0
+3219	B¡c Cñc Hùng Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM216,223,112,-1}#W"	250	0	0	0	0	0							0	0
+3220	Kh±ng Tß¾c Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM263,166,112,-1}#W"	34	0	0	0	0	357							0	357
+3221	Kh±ng Tß¾c Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM263,166,112,-1}#W"	36	0	0	0	0	0							0	0
+3222	Kh±ng Tß¾c Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM263,166,112,-1}#W"	10	0	0	0	0	0							0	0
+3223	Kh±ng Tß¾c Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM263,166,112,-1}#W"	10	0	0	0	0	0							0	0
+3224	Kh±ng Tß¾c Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM263,166,112,-1}#W"	10	0	0	0	0	0							0	0
+3225	Kh±ng Tß¾c Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM263,166,112,-1}#W"	10	0	0	0	0	0							0	0
+3229	Kh±ng Tß¾c Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM263,166,112,-1}#W"	250	0	0	0	0	0							0	0
+3230	Kiªm Xï H± Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM285,149,112,-1}#W"	34	0	0	0	0	357							0	357
+3231	Kiªm Xï H± Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM285,149,112,-1}#W"	2	0	0	0	0	0							0	0
+3232	Kiªm Xï H± Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM285,149,112,-1}#W"	2	0	0	0	0	0							0	0
+3233	Kiªm Xï H± Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM285,149,112,-1}#W"	2	0	0	0	0	0							0	0
+3234	Kiªm Xï H± Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM285,149,112,-1}#W"	2	0	0	0	0	0							0	0
+3235	Kiªm Xï H± Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM285,149,112,-1}#W"	2	0	0	0	0	0							0	0
+3239	Kiªm Xï H± Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM285,149,112,-1}#W"	100	0	0	0	0	0							0	0
+3240	Tinh Tinh Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM276,121,112,-1}#W"	34	0	0	0	0	357							0	357
+3241	Tinh Tinh Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM276,121,112,-1}#W"	2	0	0	0	0	0							0	0
+3242	Tinh Tinh Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM276,121,112,-1}#W"	2	0	0	0	0	0							0	0
+3243	Tinh Tinh Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM276,121,112,-1}#W"	2	0	0	0	0	0							0	0
+3244	Tinh Tinh Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM276,121,112,-1}#W"	2	0	0	0	0	0							0	0
+3245	Tinh Tinh Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM276,121,112,-1}#W"	2	0	0	0	0	0							0	0
+3249	Tinh Tinh Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM276,121,112,-1}#W"	2	0	0	0	0	0							0	0
+3250	Tê Ngßu Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM227,92,112,-1}#W"	68	0	0	0	0	357							0	357
+3251	Tê Ngßu Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM227,92,112,-1}#W"	16	0	0	0	0	0							0	0
+3252	Tê Ngßu Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM227,92,112,-1}#W"	16	0	0	0	0	0							0	0
+3253	Tê Ngßu Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM227,92,112,-1}#W"	16	0	0	0	0	0							0	0
+3254	Tê Ngßu Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM227,92,112,-1}#W"	16	0	0	0	0	0							0	0
+3255	Tê Ngßu Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM227,92,112,-1}#W"	16	0	0	0	0	0							0	0
+3256	Tê Ngßu Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM227,92,112,-1}#W"	16	0	0	0	0	0							0	0
+3259	Tê Ngßu Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM227,92,112,-1}#W"	250	0	0	0	0	0							0	0
+3260	Tuyªt Ðiêu Trß·ng Thành	"#B Thánh Thú S½n #{_INFOAIM190,230,201,-1}#W"	34	0	0	0	0	357							0	357
+3261	Tuyªt Ðiêu Biªn D¸	"#B Thánh Thú S½n #{_INFOAIM190,230,201,-1}#W"	8	0	0	0	0	0							0	0
+3262	Tuyªt Ðiêu Biªn D¸	"#B Thánh Thú S½n #{_INFOAIM190,230,201,-1}#W"	8	0	0	0	0	0							0	0
+3263	Tuyªt Ðiêu Biªn D¸	"#B Thánh Thú S½n #{_INFOAIM190,230,201,-1}#W"	8	0	0	0	0	0							0	0
+3264	Tuyªt Ðiêu Biªn D¸	"#B Thánh Thú S½n #{_INFOAIM190,230,201,-1}#W"	8	0	0	0	0	0							0	0
+3265	Tuyªt Ðiêu Biªn D¸	"#B Thánh Thú S½n #{_INFOAIM190,230,201,-1}#W"	8	0	0	0	0	0							0	0
+3266	Tuyªt Ðiêu Biªn D¸	"#B Thánh Thú S½n #{_INFOAIM190,230,201,-1}#W"	8	0	0	0	0	0							0	0
+3269	Tuyªt Ðiêu Bäo Bäo	"#B Thánh Thú S½n #{_INFOAIM190,230,201,-1}#W"	100	0	0	0	0	0							0	0
+3270	Long Kiªm Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM275,85,112,-1}#W"	68	0	0	0	0	357							0	357
+3271	Long Kiªm Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM275,85,112,-1}#W"	16	0	0	0	0	0							0	0
+3272	Long Kiªm Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM275,85,112,-1}#W"	16	0	0	0	0	0							0	0
+3273	Long Kiªm Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM275,85,112,-1}#W"	16	0	0	0	0	0							0	0
+3274	Long Kiªm Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM275,85,112,-1}#W"	16	0	0	0	0	0							0	0
+3275	Long Kiªm Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM275,85,112,-1}#W"	16	0	0	0	0	0							0	0
+3276	Long Kiªm Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM275,85,112,-1}#W"	16	0	0	0	0	0							0	0
+3279	Long Kiªm Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM275,85,112,-1}#W"	250	0	0	0	0	0							0	0
+3280	Bác Mã Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM247,98,112,-1}#W"	68	0	0	0	0	357							0	357
+3281	Bác Mã Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM247,98,112,-1}#W"	16	0	0	0	0	0							0	0
+3282	Bác Mã Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM247,98,112,-1}#W"	16	0	0	0	0	0							0	0
+3283	Bác Mã Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM247,98,112,-1}#W"	16	0	0	0	0	0							0	0
+3284	Bác Mã Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM247,98,112,-1}#W"	16	0	0	0	0	0							0	0
+3285	Bác Mã Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM247,98,112,-1}#W"	16	0	0	0	0	0							0	0
+3286	Bác Mã Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM247,98,112,-1}#W"	16	0	0	0	0	0							0	0
+3289	Bác Mã Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM247,98,112,-1}#W"	250	0	0	0	0	0							0	0
+3290	Hoàng Ði¬u Trß·ng Thành		0	0	0	0	0	0							0	0
+3291	Hoàng Ði¬u Biªn D¸		0	0	0	0	0	0							0	0
+3292	Hoàng Ði¬u Biªn D¸		0	0	0	0	0	0							0	0
+3293	Hoàng Ði¬u Biªn D¸		0	0	0	0	0	0							0	0
+3294	Hoàng Ði¬u Biªn D¸		0	0	0	0	0	0							0	0
+3295	Hoàng Ði¬u Biªn D¸		0	0	0	0	0	0							0	0
+3296	Hoàng Ði¬u Biªn D¸		0	0	0	0	0	0							0	0
+3297	Hoàng Ði¬u Biªn D¸		0	0	0	0	0	0							0	0
+3299	Hoàng Ði¬u Bäo Bäo		0	0	0	0	0	0							0	0
+3300	Niên Thú Trß·ng Thành		0	0	0	0	0	0							0	0
+3301	Niên Thú Biªn D¸		0	0	0	0	0	0							0	0
+3302	Niên Thú Biªn D¸		0	0	0	0	0	0							0	0
+3303	Niên Thú Biªn D¸		0	0	0	0	0	0							0	0
+3304	Niên Thú Biªn D¸		0	0	0	0	0	0							0	0
+3305	Niên Thú Biªn D¸		0	0	0	0	0	0							0	0
+3306	Niên Thú Biªn D¸		0	0	0	0	0	0							0	0
+3307	Niên Thú Biªn D¸		0	0	0	0	0	0							0	0
+3309	Niên Thú Bäo Bäo		0	0	0	0	0	0							0	0
+3310	Long Quy Trß·ng Thành		0	0	0	0	0	0							0	0
+3311	Long Quy Biªn D¸		0	0	0	0	0	0							0	0
+3312	Long Quy Biªn D¸		0	0	0	0	0	0							0	0
+3313	Long Quy Biªn D¸		0	0	0	0	0	0							0	0
+3314	Long Quy Biªn D¸		0	0	0	0	0	0							0	0
+3315	Long Quy Biªn D¸		0	0	0	0	0	0							0	0
+3316	Long Quy Biªn D¸		0	0	0	0	0	0							0	0
+3317	Long Quy Biªn D¸		0	0	0	0	0	0							0	0
+3319	Long Quy Bäo Bäo		0	0	0	0	0	0							0	0
+3320	Anh Chiêu Trß·ng Thành		0	0	0	0	0	0							0	0
+3321	Anh Chiêu Biªn D¸		0	0	0	0	0	0							0	0
+3322	Anh Chiêu Biªn D¸		0	0	0	0	0	0							0	0
+3323	Anh Chiêu Biªn D¸		0	0	0	0	0	0							0	0
+3324	Anh Chiêu Biªn D¸		0	0	0	0	0	0							0	0
+3325	Anh Chiêu Biªn D¸		0	0	0	0	0	0							0	0
+3326	Anh Chiêu Biªn D¸		0	0	0	0	0	0							0	0
+3327	Anh Chiêu Biªn D¸		0	0	0	0	0	0							0	0
+3329	Anh Chiêu Bäo Bäo		0	0	0	0	0	0							0	0
+3330	KÏ Lân Trß·ng Thành		0	0	0	0	0	0							0	0
+3331	KÏ Lân Biªn D¸		0	0	0	0	0	0							0	0
+3332	KÏ Lân Biªn D¸		0	0	0	0	0	0							0	0
+3333	KÏ Lân Biªn D¸		0	0	0	0	0	0							0	0
+3334	KÏ Lân Biªn D¸		0	0	0	0	0	0							0	0
+3335	KÏ Lân Biªn D¸		0	0	0	0	0	0							0	0
+3336	KÏ Lân Biªn D¸		0	0	0	0	0	0							0	0
+3337	KÏ Lân Biªn D¸		0	0	0	0	0	0							0	0
+3338	KÏ Lân Biªn D¸		0	0	0	0	0	0							0	0
+3339	KÏ Lân Bäo Bäo		0	0	0	0	0	0							0	0
+3340	Giao Long Trß·ng Thành		0	0	0	0	0	0							0	0
+3341	Giao Long Biªn D¸		0	0	0	0	0	0							0	0
+3342	Giao Long Biªn D¸		0	0	0	0	0	0							0	0
+3343	Giao Long Biªn D¸		0	0	0	0	0	0							0	0
+3344	Giao Long Biªn D¸		0	0	0	0	0	0							0	0
+3345	Giao Long Biªn D¸		0	0	0	0	0	0							0	0
+3346	Giao Long Biªn D¸		0	0	0	0	0	0							0	0
+3347	Giao Long Biªn D¸		0	0	0	0	0	0							0	0
+3348	Giao Long Biªn D¸		0	0	0	0	0	0							0	0
+3349	Giao Long Bäo Bäo		0	0	0	0	0	0							0	0
+3350	Sài Miêu Trß·ng Thành		0	0	0	0	0	0							0	0
+3351	Sài Miêu Biªn D¸		0	0	0	0	0	0							0	0
+3352	Sài Miêu Biªn D¸		0	0	0	0	0	0							0	0
+3359	Sài Miêu Bäo Bäo		0	0	0	0	0	0							0	0
+3360	Kê Trß·ng Thành		0	0	0	0	0	0							0	0
+3361	Kê Biªn D¸		0	0	0	0	0	0							0	0
+3362	Kê Biªn D¸		0	0	0	0	0	0							0	0
+3369	Kê Bäo Bäo		0	0	0	0	0	0							0	0
+3370	Áp TØ Trß·ng Thành		0	0	0	0	0	0							0	0
+3371	Áp TØ Biªn D¸		0	0	0	0	0	0							0	0
+3372	Áp TØ Biªn D¸		0	0	0	0	0	0							0	0
+3379	Áp TØ Bäo Bäo		0	0	0	0	0	0							0	0
+3380	S½n Dß½ng Trß·ng Thành		0	0	0	0	0	0							0	0
+3381	S½n Dß½ng Biªn D¸		0	0	0	0	0	0							0	0
+3382	S½n Dß½ng Biªn D¸		0	0	0	0	0	0							0	0
+3389	S½n Dß½ng Bäo Bäo		0	0	0	0	0	0							0	0
+3390	Mao Lß Trß·ng Thành		0	0	0	0	0	0							0	0
+3391	Mao Lß Biªn D¸		0	0	0	0	0	0							0	0
+3392	Mao Lß Biªn D¸		0	0	0	0	0	0							0	0
+3399	Mao Lß Bäo Bäo		0	0	0	0	0	0							0	0
+3400	Nga Trß·ng Thành		0	0	0	0	0	0							0	0
+3401	Nga Biªn D¸		0	0	0	0	0	0							0	0
+3402	Nga Biªn D¸		0	0	0	0	0	0							0	0
+3409	Nga Bäo Bäo		0	0	0	0	0	0							0	0
+3410	Bá Vß½ng Long Trß·ng Thành		0	0	0	0	0	0							0	0
+3411	Bá Vß½ng Long Biªn D¸		0	0	0	0	0	0							0	0
+3412	Bá Vß½ng Long Biªn D¸		0	0	0	0	0	0							0	0
+3419	Bá Vß½ng Long Bäo Bäo		0	0	0	0	0	0							0	0
+3420	Xí Nga Trß·ng Thành		0	0	0	0	0	0							0	0
+3421	Xí Nga Biªn D¸		0	0	0	0	0	0							0	0
+3422	Xí Nga Biªn D¸		0	0	0	0	0	0							0	0
+3429	Xí Nga Bäo Bäo		0	0	0	0	0	0							0	0
+3430	ÐÕi ThØ Trß·ng Thành		0	0	0	0	0	0							0	0
+3431	ÐÕi ThØ Biªn D¸		0	0	0	0	0	0							0	0
+3432	ÐÕi ThØ Biªn D¸		0	0	0	0	0	0							0	0
+3439	ÐÕi ThØ Bäo Bäo		0	0	0	0	0	0							0	0
+3440	Áp ChuÖ Thú Trß·ng Thành		0	0	0	0	0	0							0	0
+3441	Áp ChuÖ Thú Biªn D¸		0	0	0	0	0	0							0	0
+3442	Áp ChuÖ Thú Biªn D¸		0	0	0	0	0	0							0	0
+3449	Áp ChuÖ Thú Bäo Bäo		0	0	0	0	0	0							0	0
+3450	Trß Trß·ng Thành		0	0	0	0	0	0							0	0
+3451	Trß Biªn D¸		0	0	0	0	0	0							0	0
+3459	Trß Bäo Bäo		0	0	0	0	0	0							0	0
+3460	Thanh Oa Trß·ng Thành		0	0	0	0	0	0							0	0
+3461	Thanh Oa Biªn D¸		0	0	0	0	0	0							0	0
+3469	Thanh Oa Bäo Bäo		0	0	0	0	0	0							0	0
+3470	Ti¬u Tßþng Trß·ng Thành		0	0	0	0	0	0							0	0
+3471	Ti¬u Tßþng Biªn D¸		0	0	0	0	0	0							0	0
+3479	Ti¬u Tßþng Bäo Bäo		0	0	0	0	0	0							0	0
+3480	Tuyªt H° Trß·ng Thành		0	0	0	0	0	0							0	0
+3481	Tuyªt H° Biªn D¸		0	0	0	0	0	0							0	0
+3489	Tuyªt H° Bäo Bäo		0	0	0	0	0	0							0	0
+3490	Lang Trß·ng Thành	"#B Huy«n Vû Ðäo #{_INFOAIM200,162,112,-1}#W"	34	0	0	0	0	0							0	0
+3491	Lang Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM200,162,112,-1}#W"	2	0	0	0	0	0							0	0
+3492	Lang Biªn D¸	"#B Huy«n Vû Ðäo #{_INFOAIM200,162,112,-1}#W"	2	0	0	0	0	0							0	0
+3499	Lang Bäo Bäo	"#B Huy«n Vû Ðäo #{_INFOAIM200,162,112,-1}#W"	0	0	0	0	0	0							0	0

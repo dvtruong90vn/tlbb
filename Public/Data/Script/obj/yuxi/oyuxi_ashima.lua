@@ -1,0 +1,13 @@
+--ÓñÏªNPC
+--°¢Ê«Âê
+--ÆÕÍ¨
+
+--**********************************
+--ÊÂ¼þ½»»¥Èë¿Ú
+--**********************************
+function x027005_OnDefaultEvent( sceneId, selfId,targetId )
+	BeginEvent(sceneId)
+		AddText(sceneId,"Là ngß½i cÑu ta? A H¡c, A H¡c ca · ðâu?")
+	EndEvent(sceneId)
+	DispatchEventList(sceneId,selfId,targetId)
+end

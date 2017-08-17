@@ -1,0 +1,18 @@
+INT	INT	STRING	INT	STRING	STRING	STRING	STRING	STRING
+ScriptId	SceneID	NpcName$1$	¶Ô°×ÊýÁ¿	ÏêÏ¸¶Ô°×1$1$	ÏêÏ¸¶Ô°×2$1$	ÏêÏ¸¶Ô°×3$1$	ÏêÏ¸¶Ô°×4$1$	ÏêÏ¸¶Ô°×5$1$
+1040000	6	Cán Quang Hào	1	Ta là Cán Quang Hào, ðây là ph¥n ð¯i thoÕi còn thiªu và lßþc b¾t khi ði«n vào bäng, phát huy công døng r°i nhï?			
+1040001	6	Cát Quang Bµi	1					
+1040002	6	Mã Ngû ÐÑc	1					
+1040003	6	Vß½ng Khuê	1					
+1040004	6	Vß½ng Ti¬u Nha	1					
+1040005	6	Vô Lßþng Ð® TØ	1				
+1040006	6	Tân Song Thanh	1					
+1040007	6	Tiªt ÐÕi Nß½ng	1					
+1040008	6	Tiªt V§n Lai	1					
+1040009	6	Tä TØ Møc	1					
+1040010	6	Chung Linh	1					
+1040011	12	NPC12	1					
+222345	13	NPC13	1					
+222346	14	NPC14	1					
+222347	15	NPC15	1					
+222348	16	NPC16	1

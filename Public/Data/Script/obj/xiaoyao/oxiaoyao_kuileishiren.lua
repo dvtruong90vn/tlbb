@@ -1,0 +1,13 @@
+--NPC
+--¿þÀÜ
+--ÆÕÍ¨
+
+--**********************************
+--ÊÂ¼þ½»»¥Èë¿Ú
+--**********************************
+function x014010_OnDefaultEvent( sceneId, selfId,targetId )
+	BeginEvent(sceneId)
+		AddText(sceneId,"Bù nhìn Tiêu Dao loÕi F-16 ðã ðßþc khôi phøc lÕi t× l²i nghiêm tr÷ng cüa h® th¯ng.")
+	EndEvent(sceneId)
+	DispatchEventList(sceneId,selfId,targetId)
+end

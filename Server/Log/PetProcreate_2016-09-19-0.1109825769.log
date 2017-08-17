@@ -1,0 +1,3 @@
+PetProcreateData::InitFromShareMemory begin (-1219491024)(T0=2016-9-19_9:36:16 T1=34.5860)
+PetProcreateData::InitFromShareMemory end m_nItemCount=0 (-1219491024)(T0=2016-9-19_9:36:16 T1=34.6900)
+PetProcreateData::Init m_uLastHeartBeatTime=34690 (-1219491024)(T0=2016-9-19_9:36:16 T1=34.6900)

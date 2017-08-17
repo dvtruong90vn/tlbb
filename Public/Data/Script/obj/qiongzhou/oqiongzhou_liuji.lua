@@ -1,0 +1,26 @@
+--ÇíÖÝNPC
+--Áõ¼¾
+--6¼¶´òÔìÍ¼Ö½ÉÌ
+
+x035006_g_scriptId = 035006
+x035006_g_shoptableindex = 108
+
+--**********************************
+--ÊÂ¼þ½»»¥Èë¿Ú
+--**********************************
+function x035006_OnDefaultEvent( sceneId, selfId, targetId )
+	BeginEvent( sceneId )
+		AddText( sceneId, "Này... mau ch÷n thÑ các hÕ thích r°i ði ði, ð×ng ð¬ m÷i ngß¶i biªt ta ðang · ðây." )
+		AddNumText( sceneId, x035006_g_scriptId, "Ngß½i mu¯n mua gì nào?", 7, 0 )
+	EndEvent( sceneId )
+	DispatchEventList( sceneId, selfId, targetId )
+end
+
+--**********************************
+--ÊÂ¼þÁÐ±íÑ¡ÖÐÒ»Ïî
+--**********************************
+function x035006_OnEventRequest( sceneId, selfId, targetId, eventId )
+	if GetNumText() == 0 then
+		DispatchShopItem( sceneId, selfId, targetId, x035006_g_shoptableindex )
+	end
+end

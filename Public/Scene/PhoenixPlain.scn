@@ -1,0 +1,10 @@
+[System]
+navmapname=PhoenixPlain.nav
+monsterfile=PhoenixPlain_monster.ini
+patrolpoint=PhoenixPlain_patrolpoint.ini
+growpointdata=PhoenixPlain_growpoint.txt
+growpointsetup=PhoenixPlain_growpointsetup.txt
+eventfile=PhoenixPlain_area.ini
+petfile=PhoenixPlain_pet.ini
+platformfile=PhoenixPlain_platform.ini
+stallinfodata=PhoenixPlain_StallInfo.stall

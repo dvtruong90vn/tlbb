@@ -1,0 +1,8 @@
+INT	INT	INT	STRING
+index	isShow	mode	info$1$
+#<0>index	Ë÷Òý		
+#<1>isShow	ÊÇ·ñÏÔÊ¾		
+#<2>mode	·¢²¼Ä£Ê½£º0£¬ÆÕÍ¨Í¨¸æ£»1£¬ÐÇÆÚÍ¨¸æ¡¶NotifyWeek¡·£»2£¬ÈÕÆÚÍ¨¸æ¡¶NotifyDate¡·£»3£¬ÉúÈÕÍ¨¸æ£»4£¬µÇÂ¼Í¨¸æ£¨¸ñÊ½¹Ì¶¨£©		
+#<3>info	ÏûÏ¢ÄÚÈÝ		
+#			
+0	1	0	#BHoan nghênh các hÕ ðªn v¾i thª gi¾i Thiên Long Bát Bµ, chúc các hÕ online vui vë!!!

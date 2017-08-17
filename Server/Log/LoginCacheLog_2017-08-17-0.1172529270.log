@@ -1,0 +1,8 @@
+PlayerBaseInfo..... GUID =3C33609F, Name =Shame, AccName =gamera, Level =10, Sex =male, Money =100000, YuanBao =0, ZengDian =0, ShouLanCount =0, HP =999, MP =999, Rage =0, LeftPoint =0, Vigor =(10/50), Energy =(10/50), Exp =0, DoubleExp =(luoyang=0,city=0,other=0), GoodBadValue =0, PKValue =0, KillCaoYun =0, MenPaiPoint =0, GuildPoint =0, JuQingPoint =0 OK (-1218270416)(T0=2017-8-17_22:7:1 T1=307.2340)
+PlayerEquipInfo.....  OK (-1218270416)(T0=2017-8-17_22:7:1 T1=307.2340)
+PlayerBagInfo.....  OK (-1218270416)(T0=2017-8-17_22:7:1 T1=307.2340)
+PlayerBankInfo(OwnerGUID =3C33609F, OwnerName =Shame)..... Begin: (-1218270416)(T0=2017-8-17_22:7:1 T1=307.2340)
+OwnerGUID =3C33609F, OwnerName =Shame BKMoney =0  SafeBoxMoney =0 (-1218270416)(T0=2017-8-17_22:7:1 T1=307.2340)
+PlayerBankInfo(OwnerGUID =3C33609F, OwnerName =Shame)..... End! (-1218270416)(T0=2017-8-17_22:7:1 T1=307.2340)
+PlayerPetInfo(OwnerGUID =3C33609F, OwnerName =Shame)..... Begin: (-1218270416)(T0=2017-8-17_22:7:1 T1=307.2340)
+PlayerPetInfo(OwnerGUID =3C33609F, OwnerName =Shame, StatPetCount =0)..... End. (-1218270416)(T0=2017-8-17_22:7:1 T1=307.2340)

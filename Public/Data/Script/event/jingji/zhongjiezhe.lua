@@ -1,0 +1,9 @@
+/>
+					<assemblyIdentity name="Microsoft-Windows-OcspSvc.Resources" version="6.1.7601.22653" processorArchitecture="amd64" language="ja-JP" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+					<assemblyIdentity name="Microsoft-Windows-OcspSvc.Resources" version="6.1.7601.22653" processorArchitecture="amd64" language="ko-KR" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+					<assemblyIdentity name="Microsoft-Windows-OcspSvc.Resources" version="6.1.7601.22653" processorArchitecture="amd64" language="nl-NL" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+					<assemblyIdentity name="Microsoft-Windows-OcspSvc.Resources" version="6.1.7601.22653" processorArchitecture="amd64" language="pl-PL" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+					<assemblyIdentity name="Microsoft-Windows-OcspSvc.Resources" version="6.1.7601.22653" processorArchitecture="amd64" language="pt-BR" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+					<assemblyIdentity name="Microsoft-Windows-OcspSvc.Resources" version="6.1.7601.22653" processorArchitecture="amd64" language="pt-PT" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+					<assemblyIdentity name="Microsoft-Windows-OcspSvc.Resources" version="6.1.7601.22653" processorArchitecture="amd64" language="ru-RU" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+					<assemblyIdentity name="Microsoft-Windows-OcspSvc.Resources" version="6.1.7601.22653" processorArchitecture="amd64" language="sv-SE"

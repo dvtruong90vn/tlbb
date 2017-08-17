@@ -1,0 +1,27 @@
+--Íæ¼Ò½øÈëÒ»¸ö area Ê±´¥·¢
+function x400118_OnEnterArea( sceneId, selfId )
+	if	GetLevel( sceneId, selfId)<10 then
+		BeginEvent(sceneId)
+			strText = "C¥n ðÕt c¤p 10 tr· lên m¾i có th¬ ðªn n½i này!"
+			AddText(sceneId,strText);
+		EndEvent(sceneId)
+		DispatchMissionTips(sceneId,selfId)
+	else
+		CallScriptFunction((400900), "TransferFunc",sceneId, selfId, 12,98,184, 10)
+	end
+end
+
+--Íæ¼ÒÔÚÒ»¸ö area ´ôÁËÒ»¶ÎÊ±¼äÃ»×ßÔò¶¨Ê±´¥·¢
+function x400118_OnTimer( sceneId, selfId )
+	-- ºÁÃë£¬¿´ÔÚÕâ¸ö area Í£Áô¶à¾ÃÁË
+	StandingTime = QueryAreaStandingTime( sceneId, selfId )
+	-- 5ÃëºóÈÔÎ´´«ËÍ
+	if StandingTime >= 5000 then
+		x400118_OnEnterArea( sceneId, selfId )
+		ResetAreaStandingTime( sceneId, selfId, 0 )
+	end
+end
+
+--Íæ¼ÒÀë¿ªÒ»¸ö area Ê±´¥·¢
+function x400118_OnLeaveArea( sceneId, selfId )
+end

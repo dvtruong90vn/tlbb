@@ -1,0 +1,6 @@
+WGGuildErrorHandler: ServerPlayer (ErrorCode=-8)  (-1653798032)(T0=2017-8-17_22:7:15 T1=314.6100)
+Obj_Human::UpdateGuildInfo GetGUID()=3C33609F GetGuildID()=-1 GetGuildPos()=0 bClearItem=0 (-1838437520)(T0=2017-8-17_22:7:15 T1=314.6800)
+WGGuildErrorHandler: GUID=3C33609F GuildID = -1 (-1838437520)(T0=2017-8-17_22:7:15 T1=314.7070)
+WGGuildErrorHandler: ServerPlayer (ErrorCode=-8)  (-1653798032)(T0=2017-8-17_22:12:52 T1=651.6000)
+Obj_Human::UpdateGuildInfo GetGUID()=3C33609F GetGuildID()=-1 GetGuildPos()=0 bClearItem=0 (-1662190734)(T0=2017-8-17_22:12:52 T1=651.6170)
+WGGuildErrorHandler: GUID=3C33609F GuildID = -1 (-1662190734)(T0=2017-8-17_22:12:52 T1=651.6170)
